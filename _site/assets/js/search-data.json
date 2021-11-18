@@ -1,0 +1,110 @@
+{"0": {
+    "doc": "Recent Alumni",
+    "title": "Recent Alumni",
+    "content": ". | David Teksen Aksun (2021) | Yunho Oh (2021) | Utku Sirin (2021) | Stuart Byma (2020) | Georgios Damaskinos (2020) | Mario Drumond (2020) | Marios Kogias (2020) | Lionel Parreaux (2020) | Mia Primorac (2020) | Arseniy Zaostrovnykh (2020) | El Mahdi El Mhamdi (2019) | Jonas Fietz (2019) | Eleftherios Kokoris-Kogias (2019) | Georgios Psaropoulos (2019) | Alexandros Daglis (2018) | Jonas Wagner (2017) | Baris Kasikci (2016) | Volodymyr Kuznetsov (2016) | Radu Banabic (2015) | Stefan Bucur (2015) | Mihai Dobrescu (2015) | . ",
+    "url": "/alumni.html",
+    "relUrl": "/alumni.html"
+  },"1": {
+    "doc": "Awards",
+    "title": "Awards",
+    "content": "** Insert list of recent awards ** . ",
+    "url": "/awards.html",
+    "relUrl": "/awards.html"
+  },"2": {
+    "doc": "Courses",
+    "title": "Courses",
+    "content": "Browse through a list of systems courses offered at EPFL across various levels. ",
+    "url": "/courses.html",
+    "relUrl": "/courses.html"
+  },"3": {
+    "doc": "Faculty",
+    "title": "Faculty",
+    "content": ". | Anastasia Ailamaki . | Katerina Argyraki . | Edouard Bugnion . | George Candea . | Babak Falsafi . | Bryan Ford . | Rachid Guerraoui . | Sanidhya Kashyap . | Anne-Marie Kermarrec . | James Larus . | Mathias Payer . | . ",
+    "url": "/faculty.html",
+    "relUrl": "/faculty.html"
+  },"4": {
+    "doc": "Faculty",
+    "title": "Affiliated Faculty",
+    "content": ". | Andreas Burg . | Jean-Pierre Hubaux . | Christoph Koch . | Jean-Yves Le Boudec . | Martin Odersky . | . ",
+    "url": "/faculty.html#affiliated-faculty",
+    "relUrl": "/faculty.html#affiliated-faculty"
+  },"5": {
+    "doc": "Graduate Courses",
+    "title": "Graduate Courses",
+    "content": "CS 728: Topics on Datacenter Design . | Next offering not confirmed at this time | Last offered in Spring of 2020 (Babak Falsafi, Anne-Marie Kermarrec) | . CS 725: Topics in Language-Based Software Security . | in Fall of 2021 (Mathias Payer) | . CS 723: Topics on ML Systems . | Next offering not confirmed at this time | Last offered in Fall of 2020 (Babak Falsafi, Anne-Marie Kermarrec, Martin Jaggi) | . CS 522: Principles of Computer Systems . | in Fall of 2021 (Katerina Argyraki, George Candea) | . CS 471: Advanced Multiprocessor Architecture . | in Fall of 2021 (Babak Falsafi) | . CS 453: Concurrent Algorithms . | in Fall of 2021 (Rachid Guerraoui) | . CS 452: Foundations of Software . | in Fall of 2021 (Martin Odersky) | . CS 451: Distributed Algorithms . | in Fall of 2021 (Rachid Guerraoui) | . CS 449: Systems for Data Science . | in Spring of 2022 (Anne-Marie Kermarrec) | . CS 438: Decentralized Systems Engineering . | in Fall of 2021 (Bryan Ford) | . CS 422: Database Systems . | in Spring of 2022 (Anastasia Ailamaki) | . CS 412: Software Security . | in Spring of 2022 (Mathias Payer) | . COM 407: TCP/IP Networking . | in Fall of 2021 (Jean-Yves Le Boudec) | . COM 405: Mobile Networks . | in Spring of 2022 (Jean-Pierre Hubaux) | . COM 402: Information Security and Privacy . | in Fall of 2021 (Jean-Pierre Hubaux, Apostolos Pyrgelis) | . EE 733: Design and Optimization of Internet-of-Things Systems . | in Fall of 2022 (Kamiar Aminian, David Atienza, Andreas Burg) | . EE 543: Advanced Wireless Receivers . | in Spring of 2022 (Andreas Burg) | . EE 472: Smart Grids Technologies * in [Spring of 2022](https://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1669977111&amp;ww_x_anneeAcad=2301874322&amp;ww_i_section=84482813&amp;ww_i_niveau=2936295&amp;ww_c_langue=en) (Jean-Yves Le Boudec, Mario Paolone) EE 442: Wireless Receivers: Algorithms and Architectures] . | in Spring of 2022 (Jean-Yves Le Boudec, Mario Paolone) | . &lt;/details&gt; EE 431: Advanced VLSI Design . | in Fall of 2021 (Andreas Burg) | . EE 429: Fundamentals of VLSI Design . | in Spring of 2022 (Andreas Burg) | . MICRO 617: Energy Autonomous Wireless Smart Systems . | in Spring of 2022 (Andreas Burg, Catherine Dehollain, Franco Maloberti, Anja Skrivervik) | . ",
+    "url": "/grad_courses.html",
+    "relUrl": "/grad_courses.html"
+  },"6": {
+    "doc": "Systems Research @ EPFL",
+    "title": "Systems Research at EPFL",
+    "content": "The Systems @ EPFL group of labs targets a broad spectrum of fundamental questions and emerging challenges in the scalability, dependability, efficiency, and security of computer systems. We explore new ways todesign, verify, transform, and evaluate systems of all kinds, ranging from embedded and mobile systems to data centers and geographically distributed systems. We place great emphasis on building and deploying prototypes, and we experimentally validate our research ideas. ",
+    "url": "/#systems-research-at-epfl",
+    "relUrl": "/#systems-research-at-epfl"
+  },"7": {
+    "doc": "Systems Research @ EPFL",
+    "title": "Systems Research @ EPFL",
+    "content": " ",
+    "url": "/",
+    "relUrl": "/"
+  },"8": {
+    "doc": "People",
+    "title": "People",
+    "content": " ",
+    "url": "/people.html",
+    "relUrl": "/people.html"
+  },"9": {
+    "doc": "Postdocs",
+    "title": "Postdocs",
+    "content": ". | Haoqiong Bian . | Marcel Busch . | Nirupam Gupta . | Noémien Kocher . | Andrei Kucharavy . | Erick Lavoie . | Dimitra Melissargos . | Ioannis Mytilinis . | Pavlos Nikolopoulos . | Rafaël Pinot . | Rafael Pires . | Pierre-Louis Roman . | Othmane Safsafi . | Srinivas Venkatesh . | Gauthier Voron . | Diyu Zhou . | . ",
+    "url": "/postdocs.html",
+    "relUrl": "/postdocs.html"
+  },"10": {
+    "doc": "Publications",
+    "title": "Recent Papers",
+    "content": "Browse through a list of recent publications at top venues. 2021 . | Rebooting Virtual Memory with Midgard (ISCA 2021) . | Cerebros: Evading the RPC Tax in Datacenters (MICRO 2021) . | Equinox: Training (for Free) on a Custom Inference Accelerator (MICRO 2021) . | NrOS: Effective Replication and Sharing in an Operating System (OSDI 2021) . | Scalable Multi-Query Execution using Reinforcement Learning (SIGMOD 2021) . | CALYPSO: Private Data Management for Decentralized Ledgers (VLDB 2021) . | Micro-architectural analysis of in-memory OLTP: Revisited (VLDB 2021) . | . 2020 . | Optimus Prime: Accelerating Data Transformation in Servers (ASPLOS 2020) . | Microsecond Consensus for Microsecond Applications (OSDI 2020) . | SafetyPin: Encrypted Backups with Human-Memorable Secrets (OSDI 2020) . | DELF: Safeguarding deletion correctness in Online Social Networks (USENIX Security 2020) . | FuzzGen: Automatic Fuzzer Generation (USENIX Security 2020) . | HALucinator: Firmware Re-hosting Through Abstraction Layer Emulation (USENIX Security 2020) . | USBFuzz: A Framework for Fuzzing USB Drivers by Device Emulation (USENIX Security 2020) . | A system design for elastically scaling transaction processing engines in virtualized servers (VLDB 2020) . | Adaptive partitioning and indexing for in situ query processing (VLDB 2020) . | Micro-architectural Analysis of OLAP: Limitations and Opportunities (VLDB 2020) . | . 2019 . | RPCValet: NI-Driven Tail-Aware Balancing of µs-Scale RPCs (ASPLOS 2019) . | Linebacker: Preserving Victim Cache Lines in Idle Register Files of GPUs (ISCA 2019) . | Analog Neural Networks with Deep-submicron Nonlinear Synapses (MICRO 2019) . | Distributed Logless Atomic Durability with Persistent Memory (MICRO 2019) . | Prefetched Address Translation (MICRO 2019) . | Performance Contracts for Software Network Functions (NSDI 2019) . | Fast General Distributed Transactions with Opacity (SIGMOD 2019) . | Verifying Software Network Functions with No Verification Expertise (SOSP 2019) . | Pythia: Remote Oracles for the Masses (USENIX Security 2019) . | . ",
+    "url": "/publications.html#recent-papers",
+    "relUrl": "/publications.html#recent-papers"
+  },"11": {
+    "doc": "Publications",
+    "title": "Publications",
+    "content": " ",
+    "url": "/publications.html",
+    "relUrl": "/publications.html"
+  },"12": {
+    "doc": "Research",
+    "title": "Work Overview",
+    "content": " ",
+    "url": "/research.html#work-overview",
+    "relUrl": "/research.html#work-overview"
+  },"13": {
+    "doc": "Research",
+    "title": "Research",
+    "content": " ",
+    "url": "/research.html",
+    "relUrl": "/research.html"
+  },"14": {
+    "doc": "Scientists",
+    "title": "Scientists",
+    "content": ". | Endri Bezati . | Pierluca Borsò . | Vero Estrada . | Mirjana Stojilović . | Antony Vennard . | . ",
+    "url": "/scientists.html",
+    "relUrl": "/scientists.html"
+  },"15": {
+    "doc": "Students",
+    "title": "Fans",
+    "content": ". | Enis Ceyhun Alp . | Ali Ansari . | Nicolas Badoux . | Cristina Basescu . | Atri Bhattacharyya . | Periklis Chrysogelos . | Simone Colombo . | Luca Di Bartolomeo . | Ergys Dona . | Odysseas Drosis . | Akash Dhasade . | Mahyar Emami . | Sadegh Farhadkhani . | Georgia Fragkouli . | Adrien Ghosn . | Ognjen Glamocanin . | Arsany Guirguis . | Siddharth Gupta . | Simla Burcu Harma . | Ahmad Hazimeh . | Anna Patricia Herlihy . | Rishabh Iyer . | Sahand Kashani . | Jovan Komatovic . | Anastasiia Kucherenko . | Shanqing Lin . | Dina Mahmoud . | Louis-Henri Merino . | Matteo Monti . | Antoine Murat . | Kirill Nikitin . | Dalia Papuc . | Solal Pirelli . | Arash Pourhabibi . | Konstantinos Prasopoulos . | Aunn Raza . | Manuel Vidigueira . | Sébastien Rouault . | Viktor Sanca . | John Stephan . | Zeinab Shmeis . | Mark Sutherland . | Canberk Sönmez . | Pasindu Tennage . | Wuwen Wang . | Lei Yan . | Ahmet Yüzügüler . | Athanasios Xygkis . | Eleni Zapridou . | Haoqian Zhang . | . ",
+    "url": "/students.html#fans",
+    "relUrl": "/students.html#fans"
+  },"16": {
+    "doc": "Students",
+    "title": "Students",
+    "content": " ",
+    "url": "/students.html",
+    "relUrl": "/students.html"
+  },"17": {
+    "doc": "Undergraduate Courses",
+    "title": "Undergraduate Courses",
+    "content": "CS 358: Making Intelligent Things . | in Spring of 2022 (Christoph Koch) | . CS 323: Introduction to Operating Systems . | in Fall of 2021 (Sanidhya Kashyap, Mathias Payer) | . CS 322: Introduction to Database Systems . | in Spring of 2022 (Anastasia Ailamaki, Christoph Koch) | . CS 307: Introduction to Multiprocessor Architecture . | in Fall of 2021 (Babak Falsafi) | . CS 306: Software Development Project . | in Spring of 2022 (George Candea) | . CS 305: Software Engineering . | in Fall of 2021 (George Candea) | . CS 234: Technologies for Democratic Society . | in Fall of 2021 (Bryan Ford) | . CS 212: System Programming Project . | in Spring of 2022 (Edouard Bugnion, Jean-Cédric Chappelier) | . CS 209: Computer Architecture II . | in Spring of 2022 (Paolo Ienne) | . CS 208: Computer Architecture I . | in Fall of 2021 (Mirjana Stojilović) | . CS 206: Parallelism and Concurrency . | in Spring of 2022 (Sanidhya Kashyap, Martin Odersky) | . COM 208: Computer Networks . | in Fall of 2021 (Katerina Argyraki) | . EE 334: Digital Systems Design . | in Fall of 2021 (Andreas Burg) | . ",
+    "url": "/undergrad_courses.html",
+    "relUrl": "/undergrad_courses.html"
+  }
+}
