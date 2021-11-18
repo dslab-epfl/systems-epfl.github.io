@@ -1,0 +1,34 @@
+title: Systems@EPFL
+description: Overview of Systems Research at EPFL 
+
+meta:
+    title: Systems Research at EPFL
+    keywords: EPFL,Systems,Research,PhD,Switzerland
+    description: >
+        This webpage gives an overview of the different Systems research labs
+        at EPFL and the kind of work they do.
+    robots: index,follow,noarchive,noodp
+    google-site-verification: Z_FsKIe3iX8aXRXZG8NUgqOr3d41c5k9cBGccgKOvwM
+
+theme: "just-the-docs"
+
+show_downloads: true
+
+# logo: "/assets/img/xknx_logo_inverted.png"
+
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: true
+
+aux_links:
+    "EPFL EDIC Homepage":
+        - "https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/"
+
+color_scheme: dark
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: false # show or hide edit this page link
+gh_edit_link_text: "EPFL EDIC Website"
+gh_edit_repository: "https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/" # the github URL for your repo
+gh_edit_branch: "main" # the branch that your docs is served from
+gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
