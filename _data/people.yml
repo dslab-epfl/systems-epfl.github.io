@@ -2,12 +2,10 @@ anastasia-ailamaki:
         display_name: "Anastasia Ailamaki"
         role: faculty
         webpage: "http://people.epfl.ch/anastasia.ailamaki"
-
 katerina-argyraki:
         display_name: "Katerina Argyraki"
         role: faculty
         webpage: "https://people.epfl.ch/katerina.argyraki"
-
 edouard-bugnion:
         display_name: "Edouard Bugnion"
         role: faculty
@@ -44,7 +42,6 @@ mathias-payer:
         display_name: "Mathias Payer"
         role: faculty
         webpage: "https://nebelwelt.net"
-
 andreas-burg:
         display_name: "Andreas Burg"
         role: aff-faculty
@@ -149,27 +146,22 @@ diyu-zhou:
         display_name: "Diyu Zhou"
         role: postdoc
         webpage: "https://people.epfl.ch/diyu.zhou"
-
 enis-ceyhun-alp:
         display_name: "Enis Ceyhun Alp"
         role: student
         webpage: "https://people.epfl.ch/enis.alp"
-
 ali-ansari:
         display_name: "Ali Ansari"
         role: student
         webpage: "https://people.epfl.ch/ali.ansari"
-
 nicolas-badoux:
         display_name: "Nicolas Badoux"
         role: student
         webpage: "https://people.epfl.ch/nicolas.badoux"
-
 cristina-basescu:
         display_name: "Cristina Basescu"
         role: student
         webpage: "https://people.epfl.ch/cristina.basescu"
-
 atri-bhattacharyya:
         display_name: "Atri Bhattacharyya"
         role: student
@@ -358,84 +350,104 @@ david-teksen-aksun:
         display_name: "David Teksen Aksun"
         role: alum
         webpage: "https://ch.linkedin.com/in/david-teksen-aksun"
-radu-banabic:
-        display_name: "Radu Banabic"
-        role: alum
-        webpage: "https://www.linkedin.com/in/radubanabic"
-stefan-bucur:
-        display_name: "Stefan Bucur"
-        role: alum
-        webpage: "https://www.stefanbucur.net"
-stuart-byma:
-        display_name: "Stuart Byma"
-        role: alum
-        webpage: "https://ch.linkedin.com/in/stuart-byma"
-alexandros-daglis:
-        display_name: "Alexandros Daglis"
-        role: alum
-        webpage: "https://www.cc.gatech.edu/~adaglis3/"
-georgios-damaskinos:
-        display_name: "Georgios Damaskinos"
-        role: alum
-        webpage: "https://gdamaskinos.com"
-mihai-dobrescu:
-        display_name: "Mihai Dobrescu"
-        role: alum
-        webpage: "https://ch.linkedin.com/in/mihaidobrescu"
-mario-drumond:
-        display_name: "Mario Drumond"
-        role: alum
-        webpage: "https://mdrumond.github.io"
-el-mahdi-el-mhamdi:
-        display_name: "El Mahdi El Mhamdi"
-        role: alum
-        webpage: "https://elmahdielmhamdi.com"
-jonas-fietz:
-        display_name: "Jonas Fietz"
-        role: alum
-        webpage: "https://ch.linkedin.com/in/jonasfietz"
-baris-kasikci:
-        display_name: "Baris Kasikci"
-        role: alum
-        webpage: "https://web.eecs.umich.edu/~barisk/"
-marios-kogias:
-        display_name: "Marios Kogias"
-        role: alum
-        webpage: "https://marioskogias.github.io"
-
-eleftherios-kokoris-kogias:
-        display_name: "Eleftherios Kokoris-Kogias"
-        role: alum
-        webpage: "https://gr.linkedin.com/in/eleftherios-kokoris-kogias-52836274"
-volodymyr-kuznetsov:
-        display_name: "Volodymyr Kuznetsov"
-        role: alum
-        webpage: "https://www.linkedin.com/in/volodymyrkuznetsov"
+        bio: "Ph.D., 2021."
 yunho-oh:
         display_name: "Yunho Oh"
         role: alum
         webpage: "https://yunho-oh.github.io"
-lionel-parreaux:
-        display_name: "Lionel Parreaux"
-        role: alum
-        webpage: "https://cse.hkust.edu.hk/admin/people/faculty/profile/parreaux"
-mia-primorac:
-        display_name: "Mia Primorac"
-        role: alum
-        webpage: "https://ch.linkedin.com/in/miaprimorac"
-georgios-psaropoulos:
-        display_name: "Georgios Psaropoulos"
-        role: alum
-        webpage: "https://ch.linkedin.com/in/georgios-psaropoulos"
+        bio: "Ph.D., 2021."
 utku-sirin:
         display_name: "Utku Sirin"
         role: alum
         webpage: "https://www.utkusirin.com"
-jonas-wagner:
-        display_name: "Jonas Wagner"
+        bio: "Ph.D., 2021."
+stuart-byma:
+        display_name: "Stuart Byma"
         role: alum
-        webpage: "https://blog.purpureus.net/research/"
+        webpage: "https://ch.linkedin.com/in/stuart-byma"
+        bio: "Ph.D., 2020."
+georgios-damaskinos:
+        display_name: "Georgios Damaskinos"
+        role: alum
+        webpage: "https://gdamaskinos.com"
+        bio: "Ph.D., 2020."
+mario-drumond:
+        display_name: "Mario Drumond"
+        role: alum
+        webpage: "https://mdrumond.github.io"
+        bio: "Ph.D., 2020."
+marios-kogias:
+        display_name: "Marios Kogias"
+        role: alum
+        webpage: "https://marioskogias.github.io"
+        bio: "Ph.D., 2020."
+lionel-parreaux:
+        display_name: "Lionel Parreaux"
+        role: alum
+        webpage: "https://cse.hkust.edu.hk/admin/people/faculty/profile/parreaux"
+        bio: "Ph.D., 2020."
+mia-primorac:
+        display_name: "Mia Primorac"
+        role: alum
+        webpage: "https://ch.linkedin.com/in/miaprimorac"
+        bio: "Ph.D., 2020."
 arseniy-zaostrovnykh:
         display_name: "Arseniy Zaostrovnykh"
         role: alum
         webpage: "https://necto.github.io/online-cv/"
+        bio: "Ph.D., 2020."
+el-mahdi-el-mhamdi:
+        display_name: "El Mahdi El Mhamdi"
+        role: alum
+        webpage: "https://elmahdielmhamdi.com"
+        bio: "Ph.D., 2019."
+jonas-fietz:
+        display_name: "Jonas Fietz"
+        role: alum
+        webpage: "https://ch.linkedin.com/in/jonasfietz"
+        bio: "Ph.D., 2019."
+eleftherios-kokoris-kogias:
+        display_name: "Eleftherios Kokoris-Kogias"
+        role: alum
+        webpage: "https://gr.linkedin.com/in/eleftherios-kokoris-kogias-52836274"
+        bio: "Ph.D., 2019."
+georgios-psaropoulos:
+        display_name: "Georgios Psaropoulos"
+        role: alum
+        webpage: "https://ch.linkedin.com/in/georgios-psaropoulos"
+        bio: "Ph.D., 2019."
+alexandros-daglis:
+        display_name: "Alexandros Daglis"
+        role: alum
+        webpage: "https://www.cc.gatech.edu/~adaglis3/"
+        bio: "Ph.D., 2018."
+jonas-wagner:
+        display_name: "Jonas Wagner"
+        role: alum
+        webpage: "https://blog.purpureus.net/research/"
+        bio: "Ph.D., 2017."
+baris-kasikci:
+        display_name: "Baris Kasikci"
+        role: alum
+        webpage: "https://web.eecs.umich.edu/~barisk/"
+        bio: "Ph.D., 2016."
+volodymyr-kuznetsov:
+        display_name: "Volodymyr Kuznetsov"
+        role: alum
+        webpage: "https://www.linkedin.com/in/volodymyrkuznetsov"
+        bio: "Ph.D., 2016."
+radu-banabic:
+        display_name: "Radu Banabic"
+        role: alum
+        webpage: "https://www.linkedin.com/in/radubanabic"
+        bio: "Ph.D., 2015."
+stefan-bucur:
+        display_name: "Stefan Bucur"
+        role: alum
+        webpage: "https://www.stefanbucur.net"
+        bio: "Ph.D., 2015."
+mihai-dobrescu:
+    display_name: "Mihai Dobrescu"
+    role: alum
+    webpage: "https://ch.linkedin.com/in/mihaidobrescu"
+    bio: "Ph.D., 2015."
