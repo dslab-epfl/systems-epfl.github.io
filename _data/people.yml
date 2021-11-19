@@ -1,161 +1,441 @@
+anastasia-ailamaki:
+        display_name: "Anastasia Ailamaki"
+        role: faculty
+        webpage: "http://people.epfl.ch/anastasia.ailamaki"
 
-prof-a:
-    display_name: "Prof A"
-    role: faculty
+katerina-argyraki:
+        display_name: "Katerina Argyraki"
+        role: faculty
+        webpage: "https://people.epfl.ch/katerina.argyraki"
 
-prof-b:
-    display_name: "Prof B"
-    role: faculty
+edouard-bugnion:
+        display_name: "Edouard Bugnion"
+        role: faculty
+        webpage: "https://people.epfl.ch/edouard.bugnion?lang=en"
+george-candea:
+        display_name: "George Candea"
+        role: faculty
+        webpage: "https://dslab.epfl.ch/people/candea/"
+babak-falsafi:
+        display_name: "Babak Falsafi"
+        role: faculty
+        webpage: "https://parsa.epfl.ch/~falsafi/"
+bryan-ford:
+        display_name: "Bryan Ford"
+        role: faculty
+        webpage: "https://bford.info"
+rachid-guerraoui:
+        display_name: "Rachid Guerraoui"
+        role: faculty
+        webpage: "http://lpdwww.epfl.ch/rachid/index.html"
+sanidhya-kashyap:
+        display_name: "Sanidhya Kashyap"
+        role: faculty
+        webpage: "https://sanidhya.github.io"
+anne-marie-kermarrec:
+        display_name: "Anne-Marie Kermarrec"
+        role: faculty
+        webpage: "https://people.epfl.ch/anne-marie.kermarrec/?lang=en"
+james-larus:
+        display_name: "James Larus"
+        role: faculty
+        webpage: "https://people.epfl.ch/james.larus"
+mathias-payer:
+        display_name: "Mathias Payer"
+        role: faculty
+        webpage: "https://nebelwelt.net"
 
-prof-c:
-    display_name: "Prof C"
-    role: faculty
+andreas-burg:
+        display_name: "Andreas Burg"
+        role: aff-faculty
+        webpage: "https://people.epfl.ch/andreas.burg"
+jean-pierre-hubaux:
+        display_name: "Jean-Pierre Hubaux"
+        role: aff-faculty
+        webpage: "http://people.epfl.ch/jean-pierre.hubaux"
+christoph-koch:
+        display_name: "Christoph Koch"
+        role: aff-faculty
+        webpage: "http://people.epfl.ch/christoph.koch"
+jean-yves-le-boudec:
+        display_name: "Jean-Yves Le Boudec"
+        role: aff-faculty
+        webpage: "http://people.epfl.ch/jean-yves.leboudec"
+martin-odersky:
+        display_name: "Martin Odersky"
+        role: aff-faculty
+        webpage: "http://lampwww.epfl.ch/~odersky/"
+endri-bezati:
+        display_name: "Endri Bezati"
+        role: scientist
+        webpage: "https://people.epfl.ch/endri.bezati"
+pierluca-borsò:
+        display_name: "Pierluca Borsò"
+        role: scientist
+        webpage: "https://people.epfl.ch/pierluca.borso"
+vero-estrada:
+        display_name: "Vero Estrada"
+        role: scientist
+        webpage: "https://people.epfl.ch/vero.estrada"
+mirjana-stojilović:
+        display_name: "Mirjana Stojilović"
+        role: scientist
+        webpage: "https://mirjanastojilovic.github.io/"
+antony-vennard:
+        display_name: "Antony Vennard"
+        role: scientist
+        webpage: "https://people.epfl.ch/antony.vennard"
+haoqiong-bian:
+        display_name: "Haoqiong Bian"
+        role: postdoc
+        webpage: "https://people.epfl.ch/haoqiong.bian"
+marcel-busch:
+        display_name: "Marcel Busch"
+        role: postdoc
+        webpage: "https://people.epfl.ch/marcel.busch"
+nirupam-gupta:
+        display_name: "Nirupam Gupta"
+        role: postdoc
+        webpage: "https://nirupam.georgetown.domains/"
+noémien-kocher:
+        display_name: "Noémien Kocher"
+        role: postdoc
+        webpage: "https://people.epfl.ch/noemien.kocher"
+andrei-kucharavy:
+        display_name: "Andrei Kucharavy"
+        role: postdoc
+        webpage: "https://people.epfl.ch/andrei.kucharavy"
+erick-lavoie:
+        display_name: "Erick Lavoie"
+        role: postdoc
+        webpage: "http://ericklavoie.com"
+dimitra-melissargos:
+        display_name: "Dimitra Melissargos"
+        role: postdoc
+        webpage: "https://people.epfl.ch/dimitra.tsaoussis"
+ioannis-mytilinis:
+        display_name: "Ioannis Mytilinis"
+        role: postdoc
+        webpage: "https://people.epfl.ch/ioannis.mytilinis"
+pavlos-nikolopoulos:
+        display_name: "Pavlos Nikolopoulos"
+        role: postdoc
+        webpage: "https://people.epfl.ch/pavlos.nikolopoulos"
+rafaël-pinot:
+        display_name: "Rafaël Pinot"
+        role: postdoc
+        webpage: "https://people.epfl.ch/rafael.pinot"
+rafael-pires:
+        display_name: "Rafael Pires"
+        role: postdoc
+        webpage: "https://www.pires.tech"
+pierre-louis-roman:
+        display_name: "Pierre-Louis Roman"
+        role: postdoc
+        webpage: "https://people.epfl.ch/pierre-louis.roman"
+othmane-safsafi:
+        display_name: "Othmane Safsafi"
+        role: postdoc
+        webpage: "https://people.epfl.ch/othmane.safsafi"
+srinivas-venkatesh:
+        display_name: "Srinivas Venkatesh"
+        role: postdoc
+        webpage: "https://skarthikv-dsl.github.io"
+gauthier-voron:
+        display_name: "Gauthier Voron"
+        role: postdoc
+        webpage: "https://people.epfl.ch/gauthier.voron"
+diyu-zhou:
+        display_name: "Diyu Zhou"
+        role: postdoc
+        webpage: "https://people.epfl.ch/diyu.zhou"
 
-profx:
-    display_name: "Professor X"
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    github: profx
-    role: faculty
-    image: /img/people/prof-x.png
-    bio: Professor
+enis-ceyhun-alp:
+        display_name: "Enis Ceyhun Alp"
+        role: student
+        webpage: "https://people.epfl.ch/enis.alp"
 
-scott:
-    display_name: "Scott Summers"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
-    role: staff
-    image: /img/people/scott.png
-    bio: aka Cyclops
+ali-ansari:
+        display_name: "Ali Ansari"
+        role: student
+        webpage: "https://people.epfl.ch/ali.ansari"
 
-wolverine:
-    display_name: "Wolverine"
-    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
-    github: wolverine
-    role: postdoc
+nicolas-badoux:
+        display_name: "Nicolas Badoux"
+        role: student
+        webpage: "https://people.epfl.ch/nicolas.badoux"
 
-storm:
-    display_name: "Storm"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
-    role: grad
-    image: /img/people/storm.png
+cristina-basescu:
+        display_name: "Cristina Basescu"
+        role: student
+        webpage: "https://people.epfl.ch/cristina.basescu"
 
-grad-a:
-    display_name: "Grad A"
-    role: grad
+atri-bhattacharyya:
+        display_name: "Atri Bhattacharyya"
+        role: student
+        webpage: "http://atrib.bitbucket.io"
+periklis-chrysogelos:
+        display_name: "Periklis Chrysogelos"
+        role: student
+        webpage: "https://people.epfl.ch/periklis.chrysogelos"
+simone-colombo:
+        display_name: "Simone Colombo"
+        role: student
+        webpage: "https://people.epfl.ch/simone.colombo"
+luca-di-bartolomeo:
+        display_name: "Luca Di Bartolomeo"
+        role: student
+        webpage: "https://people.epfl.ch/luca.dibartolomeo"
+ergys-dona:
+        display_name: "Ergys Dona"
+        role: student
+        webpage: "https://people.epfl.ch/ergys.dona"
+odysseas-drosis:
+        display_name: "Odysseas Drosis"
+        role: student
+        webpage: "https://people.epfl.ch/odysseas.drosis"
+akash-dhasade:
+        display_name: "Akash Dhasade"
+        role: student
+        webpage: "https://people.epfl.ch/akash.dhasade"
+mahyar-emami:
+        display_name: "Mahyar Emami"
+        role: student
+        webpage: "https://mayyemami.com"
+sadegh-farhadkhani:
+        display_name: "Sadegh Farhadkhani"
+        role: student
+        webpage: "https://people.epfl.ch/sadegh.farhadkhani"
+georgia-fragkouli:
+        display_name: "Georgia Fragkouli"
+        role: student
+        webpage: "https://people.epfl.ch/georgia.fragkouli"
+adrien-ghosn:
+        display_name: "Adrien Ghosn"
+        role: student
+        webpage: "https://people.epfl.ch/adrien.ghosn"
+ognjen-glamocanin:
+        display_name: "Ognjen Glamocanin"
+        role: student
+        webpage: "https://people.epfl.ch/ognjen.glamocanin"
+arsany-guirguis:
+        display_name: "Arsany Guirguis"
+        role: student
+        webpage: "https://aguirguis.netlify.app/"
+siddharth-gupta:
+        display_name: "Siddharth Gupta"
+        role: student
+        webpage: "https://sites.google.com/view/siddharthgupta04"
+simla-burcu-harma:
+        display_name: "Simla Burcu Harma"
+        role: student
+        webpage: "https://people.epfl.ch/simla.harma"
+ahmad-hazimeh:
+        display_name: "Ahmad Hazimeh"
+        role: student
+        webpage: "https://people.epfl.ch/ahmad.hazimeh"
+anna-patricia-herlihy:
+        display_name: "Anna Patricia Herlihy"
+        role: student
+        webpage: "https://people.epfl.ch/anna.herlihy"
+rishabh-iyer:
+        display_name: "Rishabh Iyer"
+        role: student
+        webpage: "https://dslab.epfl.ch/people/iyer/"
+sahand-kashani:
+        display_name: "Sahand Kashani"
+        role: student
+        webpage: "https://people.epfl.ch/sahand.kashani"
+jovan-komatovic:
+        display_name: "Jovan Komatovic"
+        role: student
+        webpage: "https://people.epfl.ch/jovan.komatovic"
+anastasiia-kucherenko:
+        display_name: "Anastasiia Kucherenko"
+        role: student
+        webpage: "https://people.epfl.ch/anastasiia.kucherenko"
+shanqing-lin:
+        display_name: "Shanqing Lin"
+        role: student
+        webpage: "https://people.epfl.ch/shanqing.lin"
+dina-mahmoud:
+        display_name: "Dina Mahmoud"
+        role: student
+        webpage: "https://dgm96.github.io"
+louis-henri-merino:
+        display_name: "Louis-Henri Merino"
+        role: student
+        webpage: "https://people.epfl.ch/louis-henri.merino"
+matteo-monti:
+        display_name: "Matteo Monti"
+        role: student
+        webpage: "https://people.epfl.ch/matteo.monti"
+antoine-murat:
+        display_name: "Antoine Murat"
+        role: student
+        webpage: "https://people.epfl.ch/antoine.murat"
+kirill-nikitin:
+        display_name: "Kirill Nikitin"
+        role: student
+        webpage: "https://nikirill.com"
+dalia-papuc:
+        display_name: "Dalia Papuc"
+        role: student
+        webpage: "https://people.epfl.ch/dalia.papuc"
+solal-pirelli:
+        display_name: "Solal Pirelli"
+        role: student
+        webpage: "https://dslab.epfl.ch/people/pirelli/"
+arash-pourhabibi:
+        display_name: "Arash Pourhabibi"
+        role: student
+        webpage: "https://arash.pourhabibi.info"
+konstantinos-prasopoulos:
+        display_name: "Konstantinos Prasopoulos"
+        role: student
+        webpage: "https://people.epfl.ch/konstantinos.prasopoulos"
+aunn-raza:
+        display_name: "Aunn Raza"
+        role: student
+        webpage: "https://people.epfl.ch/aunn.raza"
+manuel-vidigueira:
+        display_name: "Manuel Vidigueira"
+        role: student
+        webpage: "https://people.epfl.ch/manuel.ribeirovidigueira"
+sébastien-rouault:
+        display_name: "Sébastien Rouault"
+        role: student
+        webpage: "https://sebastien.rouau.lt"
+viktor-sanca:
+        display_name: "Viktor Sanca"
+        role: student
+        webpage: "https://people.epfl.ch/viktor.sanca"
+john-stephan:
+        display_name: "John Stephan"
+        role: student
+        webpage: "https://people.epfl.ch/john.stephan"
+zeinab-shmeis:
+        display_name: "Zeinab Shmeis"
+        role: student
+        webpage: "https://people.epfl.ch/zeinab.shmeis"
+mark-sutherland:
+        display_name: "Mark Sutherland"
+        role: student
+        webpage: "https://sites.google.com/site/markjohnsutherland/"
+canberk-sönmez:
+        display_name: "Canberk Sönmez"
+        role: student
+        webpage: "https://people.epfl.ch/canberk.sonmez"
+pasindu-tennage:
+        display_name: "Pasindu Tennage"
+        role: student
+        webpage: "https://people.epfl.ch/pasindu.tennage"
+wuwen-wang:
+        display_name: "Wuwen Wang"
+        role: student
+        webpage: "https://wuwenw.github.io"
+lei-yan:
+        display_name: "Lei Yan"
+        role: student
+        webpage: "https://people.epfl.ch/l.yan"
+ahmet-yüzügüler:
+        display_name: "Ahmet Yüzügüler"
+        role: student
+        webpage: "https://acyuzuguler.github.io"
+athanasios-xygkis:
+        display_name: "Athanasios Xygkis"
+        role: student
+        webpage: "https://people.epfl.ch/athanasios.xygkis"
+eleni-zapridou:
+        display_name: "Eleni Zapridou"
+        role: student
+        webpage: "https://people.epfl.ch/eleni.zapridou"
+haoqian-zhang:
+        display_name: "Haoqian Zhang"
+        role: student
+        webpage: "https://haoqian.info"
+david-teksen-aksun:
+        display_name: "David Teksen Aksun"
+        role: alum
+        webpage: "https://ch.linkedin.com/in/david-teksen-aksun"
+radu-banabic:
+        display_name: "Radu Banabic"
+        role: alum
+        webpage: "https://www.linkedin.com/in/radubanabic"
+stefan-bucur:
+        display_name: "Stefan Bucur"
+        role: alum
+        webpage: "https://www.stefanbucur.net"
+stuart-byma:
+        display_name: "Stuart Byma"
+        role: alum
+        webpage: "https://ch.linkedin.com/in/stuart-byma"
+alexandros-daglis:
+        display_name: "Alexandros Daglis"
+        role: alum
+        webpage: "https://www.cc.gatech.edu/~adaglis3/"
+georgios-damaskinos:
+        display_name: "Georgios Damaskinos"
+        role: alum
+        webpage: "https://gdamaskinos.com"
+mihai-dobrescu:
+        display_name: "Mihai Dobrescu"
+        role: alum
+        webpage: "https://ch.linkedin.com/in/mihaidobrescu"
+mario-drumond:
+        display_name: "Mario Drumond"
+        role: alum
+        webpage: "https://mdrumond.github.io"
+el-mahdi-el-mhamdi:
+        display_name: "El Mahdi El Mhamdi"
+        role: alum
+        webpage: "https://elmahdielmhamdi.com"
+jonas-fietz:
+        display_name: "Jonas Fietz"
+        role: alum
+        webpage: "https://ch.linkedin.com/in/jonasfietz"
+baris-kasikci:
+        display_name: "Baris Kasikci"
+        role: alum
+        webpage: "https://web.eecs.umich.edu/~barisk/"
+marios-kogias:
+        display_name: "Marios Kogias"
+        role: alum
+        webpage: "https://marioskogias.github.io"
 
-grad-b:
-    display_name: "Graduate Student B With Long Name"
-    role: grad
-
-grad-c:
-    display_name: "Grad C"
-    role: grad
-
-grad-d:
-    display_name: "Grad D"
-    role: grad
-
-grad-e:
-    display_name: "Grad E"
-    role: grad
-
-grad-f:
-    display_name: "Grad F"
-    role: grad
-
-grad-g:
-    display_name: "Grad G"
-    role: grad
-
-grad-h:
-    display_name: "Grad H"
-    role: grad
-
-grad-i:
-    display_name: "Grad I"
-    role: grad
-
-alum-a:
-    display_name: "Alum A"
-    role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
-
-alum-b:
-    display_name: "Alum B With Way Longer Name"
-    role: alum
-
-alum-c:
-    display_name: "Alum C"
-    role: alum
-    webpage: "https://www.google.com"
-
-alum-d:
-    display_name: "Alum D"
-    role: alum
-
-alum-e:
-    display_name: "Alum E"
-    role: alum
-
-alum-f:
-    display_name: "Alum F"
-    role: alum
-
-alum-g:
-    display_name: "Alum G"
-    role: alum
-
-alum-h:
-    display_name: "Alum H"
-    role: alum
-
-alum-i:
-    display_name: "Alum I"
-    role: alum
-
-collab-a:
-    display_name: "Collaborator A"
-    role: collab
-
-collab-b:
-    display_name: "Collaborator B With Long Name"
-    role: collab
-
-collab-c:
-    display_name: "Collaborator C"
-    role: collab
-
-collab-d:
-    display_name: "Collaborator D"
-    role: collab
-
-collab-e:
-    display_name: "Collaborator E"
-    role: collab
-
-ugrad-a:
-    display_name: "Ugrad A"
-    role: ugrad
-
-ugrad-b:
-    display_name: "Ugrad Student B With Long Name"
-    role: ugrad
-
-ugrad-c:
-    display_name: "Ugrad C"
-    role: ugrad
-
-ugrad-d:
-    display_name: "Ugrad D"
-    role: ugrad
-
-ugrad-e:
-    display_name: "Ugrad E"
-    role: ugrad
-
-ugrad-alum-a:
-    display_name: "Past Ugrad A"
-    role: ugrad-alum
-
-ugrad-alum-b:
-    display_name: "Past Ugrad Student B With Long Name"
-    role: ugrad-alum
+eleftherios-kokoris-kogias:
+        display_name: "Eleftherios Kokoris-Kogias"
+        role: alum
+        webpage: "https://gr.linkedin.com/in/eleftherios-kokoris-kogias-52836274"
+volodymyr-kuznetsov:
+        display_name: "Volodymyr Kuznetsov"
+        role: alum
+        webpage: "https://www.linkedin.com/in/volodymyrkuznetsov"
+yunho-oh:
+        display_name: "Yunho Oh"
+        role: alum
+        webpage: "https://yunho-oh.github.io"
+lionel-parreaux:
+        display_name: "Lionel Parreaux"
+        role: alum
+        webpage: "https://cse.hkust.edu.hk/admin/people/faculty/profile/parreaux"
+mia-primorac:
+        display_name: "Mia Primorac"
+        role: alum
+        webpage: "https://ch.linkedin.com/in/miaprimorac"
+georgios-psaropoulos:
+        display_name: "Georgios Psaropoulos"
+        role: alum
+        webpage: "https://ch.linkedin.com/in/georgios-psaropoulos"
+utku-sirin:
+        display_name: "Utku Sirin"
+        role: alum
+        webpage: "https://www.utkusirin.com"
+jonas-wagner:
+        display_name: "Jonas Wagner"
+        role: alum
+        webpage: "https://blog.purpureus.net/research/"
+arseniy-zaostrovnykh:
+        display_name: "Arseniy Zaostrovnykh"
+        role: alum
+        webpage: "https://necto.github.io/online-cv/"
