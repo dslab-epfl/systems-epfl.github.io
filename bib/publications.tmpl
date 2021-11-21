@@ -9,15 +9,12 @@
 				<big><strong>{{ entry.fields['year'] }}</strong></big><br />
 				{% endif %}
 				{%- set prev_year = entry.fields['year'] %}
-				{{ entry.fields['month']|monthname }}
 			</span>
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
 				{%- set url = entry|main_url %}
 				{%- if url %}
-				<img src="img/pdficon_small.png" width="16"
-					height="16" alt="PDF" />
 				<a href="{{ url|escape }}">{{ entry|title }}</a>.
 				{%- else %}
 				{{ entry|title }}.
@@ -38,13 +35,14 @@
 				[<a href="{{ url|escape }}">{{ type|escape }}</a>]
 			{%- endfor %}
 				{%- if entry.fields['abstract'] %}
-				[<a class="dropdown-toggle" data-toggle="dropdown" href="javascript:void(0);" onclick="$('#abstract_{{entry.fields['key']}}').slideToggle('fast');return false;">abstract</a>]
+				<details><summary>Abstract</summary>
 				{%- endif %}
 			</span>
 			{%- if entry.fields['abstract'] %}
 			<div id="abstract_{{entry.fields['key']}}" class="abstract">
 			{{ entry.fields['abstract'] |escape }}
 			</div>
+			</details>
 			{%- endif %}
 		</td>
 	</tr>
