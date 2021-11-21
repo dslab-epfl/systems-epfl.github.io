@@ -1,67 +1,83 @@
 anastasia-ailamaki:
         display_name: "Anastasia Ailamaki"
-        role: faculty
+        role: faculty1
         webpage: "http://people.epfl.ch/anastasia.ailamaki"
+        image: /img/people/ailamaki.jpg
 katerina-argyraki:
         display_name: "Katerina Argyraki"
-        role: faculty
+        role: faculty1
         webpage: "https://people.epfl.ch/katerina.argyraki"
+        image: /img/people/argyraki.jpg
 edouard-bugnion:
         display_name: "Edouard Bugnion"
-        role: faculty
+        role: faculty1
         webpage: "https://people.epfl.ch/edouard.bugnion?lang=en"
+        image: /img/people/bugnion.jpg
 george-candea:
         display_name: "George Candea"
-        role: faculty
+        role: faculty1
         webpage: "https://dslab.epfl.ch/people/candea/"
+        image: /img/people/candea.jpg
 babak-falsafi:
         display_name: "Babak Falsafi"
-        role: faculty
+        role: faculty1
         webpage: "https://parsa.epfl.ch/~falsafi/"
+        image: /img/people/falsafi.jpeg
 bryan-ford:
         display_name: "Bryan Ford"
-        role: faculty
+        role: faculty1
         webpage: "https://bford.info"
+        image: /img/people/ford.jpg
 rachid-guerraoui:
         display_name: "Rachid Guerraoui"
-        role: faculty
+        role: faculty2
         webpage: "http://lpdwww.epfl.ch/rachid/index.html"
+        image: /img/people/guerraoui.jpg
 sanidhya-kashyap:
         display_name: "Sanidhya Kashyap"
-        role: faculty
+        role: faculty2
         webpage: "https://sanidhya.github.io"
+        image: /img/people/kashyap.jpg
 anne-marie-kermarrec:
         display_name: "Anne-Marie Kermarrec"
-        role: faculty
+        role: faculty2
         webpage: "https://people.epfl.ch/anne-marie.kermarrec/?lang=en"
+        image: /img/people/kermarrec.jpg
 james-larus:
         display_name: "James Larus"
-        role: faculty
+        role: faculty2
         webpage: "https://people.epfl.ch/james.larus"
+        image: /img/people/larus.jpg
 mathias-payer:
         display_name: "Mathias Payer"
-        role: faculty
+        role: faculty2
         webpage: "https://nebelwelt.net"
+        image: /img/people/payer.jpg
 andreas-burg:
         display_name: "Andreas Burg"
         role: aff-faculty
         webpage: "https://people.epfl.ch/andreas.burg"
+        image: /img/people/burg.jpg
 jean-pierre-hubaux:
         display_name: "Jean-Pierre Hubaux"
         role: aff-faculty
         webpage: "http://people.epfl.ch/jean-pierre.hubaux"
+        image: /img/people/hubaux.jpg
 christoph-koch:
         display_name: "Christoph Koch"
         role: aff-faculty
         webpage: "http://people.epfl.ch/christoph.koch"
+        image: /img/people/koch.jpg
 jean-yves-le-boudec:
         display_name: "Jean-Yves Le Boudec"
         role: aff-faculty
         webpage: "http://people.epfl.ch/jean-yves.leboudec"
+        image: /img/people/boudec.jpg
 martin-odersky:
         display_name: "Martin Odersky"
         role: aff-faculty
         webpage: "http://lampwww.epfl.ch/~odersky/"
+        image: /img/people/odersky.jpeg
 endri-bezati:
         display_name: "Endri Bezati"
         role: scientist

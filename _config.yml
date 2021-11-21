@@ -11,8 +11,10 @@ permalink: /blog/:year/:month/:day/:title.html
 
 # Sections on the "people" page.
 roles:
-  - key: faculty
+  - key: faculty1
     name: Faculty
+  - key: faculty2
+    name: Faculty 
   - key: aff-faculty
     name: Affilicated Faculty
   - key: postdoc
@@ -41,8 +43,8 @@ navigation:
     link: /
   - title: People
     link: /#people
-  # - title: Research
-  #   link: /research.html
+  - title: Research
+    link: /research.html
   - title: Publications
     link: /publications.html
   - title: Courses

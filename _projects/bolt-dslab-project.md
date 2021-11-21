@@ -1,19 +1,24 @@
 ---
-title: Logo Project
+title: Bolt
 
 notitle: true
 
 description: |
-  This project has a sweet logo!
+  Performance Contracts for Software Network Functions
 
 people:
-  - storm
-  - grad-b
-  - ugrad-c
+  - rishabh-iyer
+  # - luis-pedrosa
+  - arseniy-zaostrovnykh
+  - solal-pirelli
+  - katerina-argyraki
+  - george-candea
+
 
 layout: project
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Xmencomic-logo.svg/2000px-Xmencomic-logo.svg.png"
-last-updated: 2017-04-11
+image: "/img/projects/bolt-logo.png"
+last-updated: 2019-11-04
+link: "https://bolt-perf-contracts.github.io/"
 ---
 
 Some preliminary text.
