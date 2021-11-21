@@ -16,7 +16,7 @@ roles:
   - key: faculty2
     name: Faculty 
   - key: aff-faculty
-    name: Affilicated Faculty
+    name: Affiliated Faculty
   - key: postdoc
     name: Postdocs
   - key: student
