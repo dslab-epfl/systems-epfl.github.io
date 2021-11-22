@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Courses
+title: Systems Courses
 ---
 
-Browse a list of systems courses offered at EPFL.
-
-# [](#header-1)Graduate Courses
+# [](#header-1)Graduate Level
 
 <details>
     <summary> CS 728: Topics on Datacenter Design</summary>
@@ -246,7 +244,7 @@ Browse a list of systems courses offered at EPFL.
                 </ul>
 </details>
 
-# [](##header-2)Undergraduate Courses
+# [](##header-2)Undergraduate Level
 
 <details>
     <summary> CS 358: Making Intelligent Things </summary>

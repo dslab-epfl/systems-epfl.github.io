@@ -42,13 +42,15 @@ navigation:
   - title: Home
     link: /
   - title: People
-    link: /#people
+    link: /people.html
   - title: Research
     link: /research.html
   - title: Publications
     link: /publications.html
   - title: Courses
     link: /courses.html
+  - title: Seminar
+    link: https://dslab.epfl.ch/syssem/
   # - title: Awards
   #   link: /awards.html
   # - title: Code
