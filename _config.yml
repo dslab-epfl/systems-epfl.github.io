@@ -14,7 +14,7 @@ roles:
   - key: faculty1
     name: Faculty
   - key: faculty2
-    name: Faculty 
+    name: &nbsp
   - key: aff-faculty
     name: Affiliated Faculty
   - key: postdoc
@@ -22,7 +22,7 @@ roles:
   - key: student
     name: Students
   - key: scientist
-    name: Scientists
+    name: Researchers
   - key: alum
     name: Recent Alumni
 

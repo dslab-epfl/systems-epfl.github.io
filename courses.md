@@ -3,7 +3,7 @@ layout: default
 title: Systems Courses
 ---
 
-# [](#header-1)Graduate Level
+## [](#header-1)Graduate Level
 
 <details>
     <summary> CS 728: Topics on Datacenter Design</summary>
@@ -244,7 +244,7 @@ title: Systems Courses
                 </ul>
 </details>
 
-# [](##header-2)Undergraduate Level
+## [](##header-2)Undergraduate Level
 
 <details>
     <summary> CS 358: Making Intelligent Things </summary>
