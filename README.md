@@ -37,7 +37,7 @@ Setup
 8. Periodically pull from the upstream repository: `git pull upstream master`.
 
 [Python]: https://www.python.org/
-[Fork]: https://github.com/uwsampa/research-group-web/fork
+[Fork]: https://github.com/dslab-epfl/systems-epfl.github.io/fork
 
 
 Publication List
