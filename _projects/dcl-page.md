@@ -1,15 +1,15 @@
 ---
-title: Dependable Systems Lab
+title: Distributed Computing Lab
 
 description: |
-  We develop techniques and abstractions for building trustworthy computer systems, i.e., systems that are safe and secure.
+  Our research is about the theory and practice of distributed computing.
 
 people:
-  - george-candea
+  - rachid-guerraoui
 
 
 layout: project
-image: "/img/labs/dslab-logo.png"
+# image: 
 last-updated: 2019-11-04
-link: "https://dslab.epfl.ch/"
+link: "https://dcl.epfl.ch/site/home"
 ---
