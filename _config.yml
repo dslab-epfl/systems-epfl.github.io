@@ -14,7 +14,7 @@ roles:
   - key: faculty1
     name: Faculty
   - key: faculty2
-    name: &nbsp
+    name: "<p style='color: white'>Faculty</p>"
   - key: aff-faculty
     name: Affiliated Faculty
   - key: postdoc
