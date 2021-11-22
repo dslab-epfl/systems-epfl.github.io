@@ -24,7 +24,7 @@ roles:
   - key: scientist
     name: Researchers
   - key: alum
-    name: Recent Alumni
+    name: Latest PhD Alumni
 
 # Number of news stories on the front page.
 front_page_news: 5
