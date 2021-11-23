@@ -294,10 +294,6 @@ solal-pirelli:
         display_name: "Solal Pirelli"
         role: student
         webpage: "https://dslab.epfl.ch/people/pirelli/"
-arash-pourhabibi:
-        display_name: "Arash Pourhabibi"
-        role: student
-        webpage: "https://arash.pourhabibi.info"
 konstantinos-prasopoulos:
         display_name: "Konstantinos Prasopoulos"
         role: student
@@ -362,16 +358,21 @@ haoqian-zhang:
         display_name: "Haoqian Zhang"
         role: student
         webpage: "https://haoqian.info"
+arash-pourhabibi:
+        display_name: "Arash Pourhabibi"
+        role: alum
+        webpage: "https://arash.pourhabibi.info"
+        bio: "(2021)"
 david-teksen-aksun:
         display_name: "David Teksen Aksun"
         role: alum
         webpage: "https://ch.linkedin.com/in/david-teksen-aksun"
         bio: "(2021)"
-yunho-oh:
-        display_name: "Yunho Oh"
-        role: alum
-        webpage: "https://yunho-oh.github.io"
-        bio: "(2021)"
+# yunho-oh:
+#         display_name: "Yunho Oh"
+#         role: alum
+#         webpage: "https://yunho-oh.github.io"
+#         bio: "(2021)"
 utku-sirin:
         display_name: "Utku Sirin"
         role: alum
