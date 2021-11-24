@@ -438,6 +438,16 @@ alexandros-daglis:
         role: alum
         webpage: "https://www.cc.gatech.edu/~adaglis3/"
         bio: "(2018)"
+javier-picorel:
+        display_name: "Javier Picorel"
+        role: alum
+        webpage: "https://de.linkedin.com/in/javier-picorel-073a7539"
+        bio: "(2017)"
+stanko-novakovic:
+        display_name: "Stanko Novakovic"
+        role: alum
+        webpage: "https://www.microsoft.com/en-us/research/people/stnovako/"
+        bio: "(2017)"
 jonas-wagner:
         display_name: "Jonas Wagner"
         role: alum
@@ -468,3 +478,23 @@ mihai-dobrescu:
     role: alum
     webpage: "https://ch.linkedin.com/in/mihaidobrescu"
     bio: "(2015)"
+onur-kocberber:
+        display_name: "Onur Kocberber"
+        role: alum
+        webpage: "https://sites.google.com/site/kocberbe/home"
+        bio: "(2015)"            
+stavros-volos:
+        display_name: "Stavros Volos"
+        role: alum
+        webpage: "http://research.microsoft.com/en-us/people/svolos/"
+        bio: "(2015)"            
+djordje-jevdjic:
+        display_name: "Djordje Jevdjic"
+        role: alum
+        webpage: "https://www.comp.nus.edu.sg/~jevdjic/"
+        bio: "(2015)"            
+cansu-kaynak:
+        display_name: "Cansu Kaynak"
+        role: alum
+        webpage: "http://www.cansukaynak.com/"
+        bio: "(2015)"            
