@@ -4,6 +4,78 @@
 		<td>
 			<span class="date">
 				
+				<big><strong>ASPLOS '21</strong></big><br />
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				<a href="http://infoscience.epfl.ch/record/283299">Enclosure: Language-Based Restriction of Untrusted Libraries</a>.
+			</span><br />
+			<span class="authors">
+				Adrien Ghosn, Marios Kogias, Mathias Payer, James Larus, and Edouard Bugnion.
+			</span><br />
+			<span class="links">
+				<details><summary>Abstract</summary>
+			</span>
+			<div id="abstract_Ghosn:283299" class="abstract">
+			Programming languages and systems have failed to address the security implications of the increasingly frequent use of public libraries to construct modern software. Most languages provide tools and online repositories to publish, import, and use libraries; however, this double-edged sword can incorporate a large quantity of unknown, unchecked, and unverified code into an application. The risk is real, as demonstrated by malevolent actors who have repeatedly inserted malware into popular open-source libraries. This paper proposes a solution: enclosures, a new programming language construct for library isolation that provides a developer with fine-grain control over the resources that a library can access, even for libraries with complex inter-library dependencies. The programming abstraction is language-independent and could be added to most languages. These languages would then be able to take advantage of hardware isolation mechanisms that are effective across language boundaries. The enclosure policies are enforced at run time by LitterBox, a language-independent framework that uses hardware mechanisms to provide uniform and robust isolation guarantees, even for libraries written in unsafe languages. LitterBox currently supports both Intel VT-x (with general-purpose extended page tables) and the emerging Intel Memory Protection Keys (MPK). We describe an enclosure implementation for the Go and Python languages. Our evaluation demonstrates that the Go implementation can protect sensitive data in real-world applications constructed using complex untrusted libraries with deep dependencies. It requires minimal code refactoring and incurs acceptable performance overhead. The Python implementation demonstrates LitterBox’s ability to support dynamic languages.
+			</div>
+			</details>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				<big><strong>ASPLOS '21</strong></big><br />
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				<a href="http://infoscience.epfl.ch/record/283308">Benchmarking, Analysis, and Optimization of Serverless Function Snapshots</a>.
+			</span><br />
+			<span class="authors">
+				Dmitrii Ustiugov, Plamen Petrov, Marios Kogias, Edouard Bugnion, and Boris Grot.
+			</span><br />
+			<span class="links">
+				<details><summary>Abstract</summary>
+			</span>
+			<div id="abstract_Ustiugov:283308" class="abstract">
+			Serverless computing has seen rapid adoption due to its high scalability and flexible, pay-as-you-go billing model. In serverless, developers structure their services as a collection of functions, sporadically invoked by various events like clicks. High inter-arrival time variability of function invocations motivates the providers to start new function instances upon each invocation, leading to significant cold-start delays that degrade user experience. To reduce cold-start latency, the industry has turned to snapshotting, whereby an image of a fully-booted function is stored on disk, enabling a faster invocation compared to booting a function from scratch. This work introduces vHive, an open-source framework for serverless experimentation with the goal of enabling researchers to study and innovate across the entire serverless stack. Using vHive, we characterize a state-of-the-art snapshot-based serverless infrastructure, based on industry-leading Containerd orchestration framework and Firecracker hypervisor technologies. We find that the execution time of a function started from a snapshot is 95% higher, on average, than when the same function is memory- resident. We show that the high latency is attributable to frequent page faults as the function’s state is brought from disk into guest memory one page at a time. Our analysis further reveals that funccloud computing, datacenters, serverless, virtualization, snapshotstions access the same stable working set of pages across different invocations of the same function. By leveraging this insight, we build REAP, a light-weight software mechanism for serverless hosts that records functions’ stable working set of guest memory pages and proactively prefetches it from disk into memory. Compared to baseline snapshotting, REAP slashes the cold-start delays by 3.7×, on average.
+			</div>
+			</details>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				<big><strong>NSDI '21</strong></big><br />
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				<a href="http://infoscience.epfl.ch/record/283315">When to Hedge in Interactive Services</a>.
+			</span><br />
+			<span class="authors">
+				Mia Primorac, Katerina Argyraki, and Edouard Bugnion.
+			</span><br />
+			<span class="links">
+				<details><summary>Abstract</summary>
+			</span>
+			<div id="abstract_Primorac:283315" class="abstract">
+			In online data-intensive (OLDI) services, each client request typically executes on multiple servers in parallel; as a result, “system hiccups”, although rare within a single server, can interfere with many client requests and cause violations of service-level objectives. Service providers have long been fighting this “tail at scale” problem through “hedging”, i.e., issuing redundant queries to mask system hiccups. This, however, can potentially cause congestion that is more detrimental to tail latency than the hiccups themselves. This paper asks: when does it make sense to hedge in OLDI services, and how can we hedge enough to mask system hiccups but not as much as to cause congestion? First, we show that there are many realistic scenarios where hedging can have no benefit—where any hedging-based scheduling policy, including the state-of-the-art, yields no latency reduction compared to optimal load balancing without hedging. Second, we propose LÆDGE, a scheduling policy that combines optimal load balancing with work-conserving hedging, and evaluate it in an AWS cloud deployment. We show that LÆDGE strikes the right balance: first, unlike the state of the art, it never causes unnecessary congestion; second, it performs close to an ideal scheduling policy, improving the 99th percentile latency by as much as 49%, measured on 60% system utilization—without any difficult parameter training as found in the state of the art.
+			</div>
+			</details>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
 				<big><strong>ISCA '21</strong></big><br />
 				
 			</span>
