@@ -86,10 +86,18 @@ pierluca-borsò:
         display_name: "Pierluca Borsò"
         role: scientist
         webpage: "https://people.epfl.ch/pierluca.borso"
+jean-viaene:
+        display_name: "Jean Viaene"
+        role: scientist
+        webpage: "https://people.epfl.ch/jean.viaene"        
 vero-estrada:
-        display_name: "Vero Estrada"
+        display_name: "Vero Estrada-Galiñanes"
         role: scientist
         webpage: "https://people.epfl.ch/vero.estrada"
+noémien-kocher:
+        display_name: "Noémien Kocher"
+        role: scientist
+        webpage: "https://people.epfl.ch/noemien.kocher"        
 mirjana-stojilović:
         display_name: "Mirjana Stojilović"
         role: scientist
@@ -110,10 +118,6 @@ nirupam-gupta:
         display_name: "Nirupam Gupta"
         role: postdoc
         webpage: "https://nirupam.georgetown.domains/"
-noémien-kocher:
-        display_name: "Noémien Kocher"
-        role: postdoc
-        webpage: "https://people.epfl.ch/noemien.kocher"
 andrei-kucharavy:
         display_name: "Andrei Kucharavy"
         role: postdoc
@@ -282,10 +286,6 @@ antoine-murat:
         display_name: "Antoine Murat"
         role: student
         webpage: "https://people.epfl.ch/antoine.murat"
-kirill-nikitin:
-        display_name: "Kirill Nikitin"
-        role: student
-        webpage: "https://nikirill.com"
 dalia-papuc:
         display_name: "Dalia Papuc"
         role: student
@@ -428,6 +428,10 @@ eleftherios-kokoris-kogias:
         role: alum
         webpage: "https://gr.linkedin.com/in/eleftherios-kokoris-kogias-52836274"
         bio: "(2019)"
+kirill-nikitin:
+        display_name: "Kirill Nikitin"
+        role: alum
+        webpage: "https://nikirill.com"        
 georgios-psaropoulos:
         display_name: "Georgios Psaropoulos"
         role: alum
