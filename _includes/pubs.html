@@ -316,6 +316,30 @@
 		<td>
 			<span class="date">
 				
+				<big><strong>OSDI '20</strong></big><br />
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				<a href="http://infoscience.epfl.ch/record/282923">A Simpler and Faster NIC Driver Model for Network Functions</a>.
+			</span><br />
+			<span class="authors">
+				Solal Pirelli and George Candea.
+			</span><br />
+			<span class="links">
+				<details><summary>Abstract</summary>
+			</span>
+			<div id="abstract_Pirelli:282923" class="abstract">
+			The advent of software network functions calls for stronger correctness guarantees and higher performance at every level of the stack. Current network stacks trade simplicity for performance and flexibility, especially in their driver model. We show that performance and simplicity can coexist, at the cost of some flexibility, with a new NIC driver model tailored to network functions. The key idea behind our model is that the driver can efficiently reuse packet buffers because buffers follow a single logical path. We implement a driver for the Intel 82599 network card in 550 lines of code. By merely replacing the state-of-theart driver with our driver, formal verification of the entire software stack completes in 7x less time, while the verified functions’ throughput improves by 160%. Our driver also beats, on realistic workloads, the throughput of drivers that cannot yet be formally verified, thanks to its low variability and resource use. Our code is available at github.com/dslab-epfl/tinynf.
+			</div>
+			</details>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
 				<big><strong>USENIX Security '20</strong></big><br />
 				
 			</span>
