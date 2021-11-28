@@ -150,6 +150,10 @@ othmane-safsafi:
         display_name: "Othmane Safsafi"
         role: postdoc
         webpage: "https://people.epfl.ch/othmane.safsafi"
+flavio-toffalini:
+        display_name: "Flavio Toffalini"
+        role: postdoc
+        webpage: "http://flaviotoffalini.info"
 srinivas-venkatesh:
         display_name: "Srinivas Venkatesh"
         role: postdoc
@@ -173,7 +177,7 @@ ali-ansari:
 nicolas-badoux:
         display_name: "Nicolas Badoux"
         role: student
-        webpage: "https://people.epfl.ch/nicolas.badoux"
+        webpage: "https://nicolasbadoux.com"
 cristina-basescu:
         display_name: "Cristina Basescu"
         role: student
@@ -193,7 +197,7 @@ simone-colombo:
 luca-di-bartolomeo:
         display_name: "Luca Di Bartolomeo"
         role: student
-        webpage: "https://people.epfl.ch/luca.dibartolomeo"
+        webpage: "https://cyanpencil.xyz"
 ergys-dona:
         display_name: "Ergys Dona"
         role: student
@@ -214,6 +218,10 @@ sadegh-farhadkhani:
         display_name: "Sadegh Farhadkhani"
         role: student
         webpage: "https://people.epfl.ch/sadegh.farhadkhani"
+zhiyao-feng:
+        display_name: "Zhiyao Feng"
+        role: student
+        webpage: "https://people.epfl.ch/zhiyao.feng"
 georgia-fragkouli:
         display_name: "Georgia Fragkouli"
         role: student
@@ -246,6 +254,10 @@ anna-patricia-herlihy:
         display_name: "Anna Patricia Herlihy"
         role: student
         webpage: "https://people.epfl.ch/anna.herlihy"
+florian-hofhammer:
+        display_name: "Florian Hofhammer"
+        role: student
+        webpage: "https://people.epfl.ch/florian.hofhammer"
 rishabh-iyer:
         display_name: "Rishabh Iyer"
         role: student
@@ -266,6 +278,10 @@ shanqing-lin:
         display_name: "Shanqing Lin"
         role: student
         webpage: "https://people.epfl.ch/shanqing.lin"
+tao-lyu:
+        display_name: "Tao Lyu"
+        role: student
+        webpage: "https://lvtao-sec.github.io"
 dina-mahmoud:
         display_name: "Dina Mahmoud"
         role: student
@@ -302,6 +318,10 @@ aunn-raza:
         display_name: "Aunn Raza"
         role: student
         webpage: "https://people.epfl.ch/aunn.raza"
+lucio-romerio:
+        display_name: "Lucio Romerio"
+        role: student
+        webpage: "https://people.epfl.ch/lucio.romerio"
 manuel-vidigueira:
         display_name: "Manuel Vidigueira"
         role: student
@@ -314,6 +334,10 @@ viktor-sanca:
         display_name: "Viktor Sanca"
         role: student
         webpage: "https://people.epfl.ch/viktor.sanca"
+andres-sanchez:
+        display_name: "Andrés Sánchez Marín"
+        role: student
+        webpage: "https://andsanmar.github.io"
 john-stephan:
         display_name: "John Stephan"
         role: student
