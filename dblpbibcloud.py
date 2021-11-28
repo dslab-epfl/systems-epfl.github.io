@@ -64,15 +64,18 @@ AUTHORS = {
 
 
 CONFERENCES_ORG = [
-    "ASPLOS",
-    "SOSP", "OSDI", 
-    "SIGCOMM", "NSDI",  "ISCA", "MICRO", 
-    "SIGMOD", "VLDB", "PVLDB",
-    "MobiCom", "MobiSys", "SenSys", "IMC", 
-    "SIGMETRICS", 
-    "PLDI", "CCS", "SP", "USS"
+    "SOSP", "OSDI",                 # OS
+    "SIGCOMM", "NSDI",              # Networks
+    "ASPLOS", "ISCA", "MICRO",      # Architecture
+    "SIGMOD", "VLDB", "PVLDB",      # Databases
+    "MobiCom", "MobiSys", "SenSys", # Mobile
+    "IMC", "SIGMETRICS",            # Measurements
+    "PLDI",                         # PL
+    "CCS", "SP", "USS",             # Security
      #### not on George's orginal list
-     "Eurosys"
+     "Eurosys", "USENIX",           # More systems
+     "ICSE", "ISSTA",               # Software Engineering
+     "NDSS",                        # Mor esecurity
      ]
 
 
@@ -82,7 +85,8 @@ DEBUG and print(CONFERENCES)
 
 CONFERENCES_PRETTY = {
     "SP" : "IEEE Security and Privacy",
-    "USS" : "USENIX Security"
+    "USS" : "USENIX Security",
+    "USENIX" : "USENIX ATC",
 }
 
 
