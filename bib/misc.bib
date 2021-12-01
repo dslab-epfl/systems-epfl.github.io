@@ -1,0 +1,125 @@
+%%
+%% This file is editable
+%% order is unimporant
+
+
+@article{Sirin:284817,
+      title = {Micro-architectural Analysis of In-memory OLTP: Revisited},
+      author = {Sirin, Utku and Tözün, Pınar and Porobic, Danica and  Yasin, Ahmad and Ailamaki, Anastasia},
+      journal = {The VLDB Journal},
+      number = {4},
+      volume = {30},
+      venue_short = {VLDBJ '21},
+      year = {2021},
+      abstract = {Micro-architectural behavior of traditional disk-based  online transaction processing (OLTP) systems has been  investigated extensively over the past couple of decades.  Results show that traditional OLTP systems mostly  under-utilize the available micro-architectural resources.  In-memory OLTP systems, on the other hand, process all the  data in main-memory and, therefore, can omit the buffer  pool. Furthermore, they usually adopt more lightweight  concurrency control mechanisms, cache-conscious data  structures, and cleaner codebases since they are usually  designed from scratch. Hence, we expect significant  differences in micro-architectural behavior when running  OLTP on platforms optimized for in-memory processing as  opposed to disk-based database systems. In particular, we  expect that in-memory systems exploit micro-architectural  features such as instruction and data caches significantly  better than disk-based systems. This paper sheds light on  the micro-architectural behavior of in-memory database  systems by analyzing and contrasting it to the behavior of  disk-based systems when running OLTP workloads. The results  show that, despite all the design changes, in-memory OLTP  exhibits very similar micro-architectural behavior to  disk-based OLTP: more than half of the execution time goes  to memory stalls where instruction cache misses or the  long-latency data misses from the last-level cache (LLC)  are the dominant factors in the overall execution time.  Even though ground-up designed in-memory systems can  eliminate the instruction cache misses, the reduction in  instruction stalls amplifies the impact of LLC data misses.  As a result, only 30% of the CPU cycles are used to retire  instructions, and 70% of the CPU cycles are wasted to  stalls for both traditional disk-based and new generation  in-memory OLTP.},
+      url = {http://infoscience.epfl.ch/record/284817},
+      doi = {10.1007/s00778-021-00663-8},
+}
+
+@article{Dauterman:287869,
+      title = {SafetyPin: Encrypted Backups with Human-Memorable Secrets},
+      author = {Dauterman, Emma and Corrigan-Gibbs, Henry and Mazieres,  David},
+      publisher = {USENIX ASSOC},
+      journal = {Proceedings Of The 14th Usenix Symposium On Operating Systems Design And Implementation (OSDI'20)},
+      address = {Berkeley},
+      pages = {1121-1138},
+      venue_short = {OSDI '20},
+      year = {2020},
+      abstract = {We present the design and implementation of SafetyPin, a  system for encrypted mobile-device backups. Like existing  cloud-based mobile-backup systems, including those of Apple  and Google, SafetyPin requires users to remember only a  short PIN and defends against brute-force PIN-guessing  attacks using hardware security protections. Unlike today's  systems, SafetyPin splits trust over a cluster of hardware  security modules (HSMs) in order to provide security  guarantees that scale with the number of HSMs. In this way,  SafetyPin protects backed-up user data even against an  attacker that can adaptively compromise many of the  system's constituent HSMs. SafetyPin provides this  protection without sacrificing scalability or fault  tolerance. Decentralizing trust while respecting the  resource limits of today's HSMs requires a synthesis of  systems-design principles and cryptographic tools. We  evaluate SafetyPin on a cluster of 100 low-cost HSMs and  show that a SafetyPin-protected recovery takes 1.01  seconds. To process 1B recoveries a venue_short, we estimate that  a SafetyPin deployment would need 3,100 low-cost HSMs.},
+      url = {http://infoscience.epfl.ch/record/287869},
+}
+
+
+@article{Cohn-Gordon:287859,
+      title = {DELF: Safeguarding Deletion Correctness in Online Social  Networks},
+      author = {Cohn-Gordon, Katriel and Damaskinos, Georgios and Neto,  Divino and Cordova, Shi and Reitz, Benoit and Strahs,  Benjamin and Obenshain, Daniel and Pearce, Paul and  Papagiannis, Loannis},
+      publisher = {USENIX ASSOC},
+      journal = {Proceedings Of The 29th Usenix Security Symposium},
+      address = {Berkeley},
+      pages = {1057-1074},
+      venue_short = {USENIX Security '20},
+      year = {2020},
+      abstract = {Deletion is a core facet of Online Social Networks (OSNs).  For users, deletion is a tool to remove what they have  shared and control their data. For OSNs, robust deletion is  both an obligation to their users and a risk when developer  mistakes inevitably occur. While developers are effective  at identifying high-level deletion requirements in products  (e.g., users should be able to delete posted photos), they  are less effective at mapping high-level requirements into  concrete operations (e.g., deleting all relevant items in  data stores). Without framework support, developer mistakes  lead to violations of users' privacy, such as retaining  data that should be deleted, deleting the wrong data, and  exploitable vulnerabilities.},
+      url = {http://infoscience.epfl.ch/record/287859},
+}
+
+
+@article{Anadiotis:282822,
+      title = {A System Design for Elastically Scaling Transaction  Processing Engines in Virtualized Servers},
+      author = {Anadiotis, Angelos-Christos and Appuswamy, Raja and  Ailamaki, Anastasia and Bronshtein, Ilan and Avni, Hillel  and Dominguez-Sal, David and Goikhman, Shay and Levy,  Eliezer},
+      publisher = {ASSOC COMPUTING MACHINERY},
+      journal = {Proceedings of the VLDB Endowment},
+      address = {New York},
+      number = {12},
+      volume = {13},
+      pages = {3085-3098},
+      venue_short = {VLDB '20},
+      year = {2020},
+      abstract = {Online Transaction Processing (OLTP) deployments are  migrating from on-premise to cloud settings in order to  exploit the elasticity of cloud infrastructure which allows  them to adapt to workload variations. However, cloud  adaptation comes at the cost of redesigning the engine,  which has led to the introduction of several, new,  cloud-based transaction processing systems mainly focusing  on: (i) the transaction coordination protocol, (ii) the  data partitioning strategy, and, (iii) the resource  isolation across multiple tenants. As a result, standalone  OLTP engines cannot be easily deployed with an elastic  setting in the cloud and they need to migrate to another,  specialized deployment.},
+      url = {http://infoscience.epfl.ch/record/282822},
+      doi = {10.14778/3415478.3415536},
+}
+@article{Sirin:280879,
+      title = {Micro-architectural Analysis of OLAP: Limitations and  Opportunities},
+      author = {Sirin, Utku and Ailamaki, Anastasia},
+      publisher = {ASSOC COMPUTING MACHINERY},
+      journal = {Proceedings of the VLDB Endowment},,
+      address = {New York},
+      number = {6},
+      volume = {13},
+      pages = {840-853},
+      venue_short = {VLDB '20},
+      year = {2020},
+      abstract = {Understanding micro-architectural behavior is important  for efficiently using hardware resources. Recent work has  shown that in-memory online transaction processing (OLTP)  systems severely underutilize their core micro-architecture  resources [29]. Whereas, online analytical processing  (OLAP) workloads exhibit a completely different computing  pattern. OLAP workloads are read-only, bandwidth-intensive,  and include various data access patterns. With the rise of  column-stores, they run on high-performance engines that  are tightly optimized for modern hardware. Consequently,  micro-architectural behavior of modern OLAP systems remains  unclear.},
+      url = {http://infoscience.epfl.ch/record/280879},
+      doi = {10.14778/3380750.3380755},
+}
+@article{Olma:275745,
+      title = {Adaptive Partitioning and Indexing for In-situ Query  Processing},
+      author = {Olma, Matthaios and Karpathiotakis, Manos and Alagiannis,  Ioannis and Athanassoulis, Manos and Ailamaki, Anastasia},
+      publisher = {SPRINGER},
+      journal = {The VLDB Journal},
+      address = {New York},
+      number = {1},
+      volume = {29},
+      pages = {569-591},
+      venue_short = {VLDBJ '20},
+      year = {2020},
+      abstract = {The constant flux of data and queries alike has been  pushing the boundaries of data analysis systems. The  increasing size of raw data files has made data loading an  expensive operation that delays the data-to-insight time.  To alleviate the loading cost, in situ query processing  systems operate directly over raw data and offer instant  access to data. At the same time, analytical workloads have  increasing number of queries. Typically, each query focuses  on a constantly shifting-yet small-range. As a result,  minimizing the workload latency requires the benefits of  indexing in in situ query processing. In this paper, we  present an online partitioning and indexing scheme, along  with a partitioning and indexing tuner tailored for in situ  querying engines. The proposed system design improves query  execution time by taking into account user query patterns,  to (i) partition raw data files logically and (ii) build  lightweight partition-specific indexes for each partition.  We build an in situ query engine called Slalom to showcase  the impact of our design. Slalom employs adaptive  partitioning and builds non-obtrusive indexes in different  partitions on-the-fly based on lightweight query access  pattern monitoring. As a result of its lightweight nature,  Slalom achieves efficient query processing over raw data  with minimal memory consumption. Our experimentation with  both microbenchmarks and real-life workloads shows that  Slalom outperforms state-of-the-art in situ engines and  achieves comparable query response times with fully indexed  DBMS, offering lower cumulative query execution times for  query workloads with increasing size and unpredictable  access patterns.},
+      url = {http://infoscience.epfl.ch/record/275745},
+      doi = {10.1007/s00778-019-00580-x},
+}
+
+
+@article{Oh:276919,
+      title = {Linebacker: Preserving Victim Cache Lines in Idle Register  Files of GPUs},
+      author = {Oh, Yunho and Koo, Gunjae and Annavaram, Murali and Ro,  Won Woo},
+      publisher = {ASSOC COMPUTING MACHINERY},
+      journal = {Proceedings Of The 2019 46Th International Symposium On  Computer Architecture (ISCA'19)},
+      address = {New York},
+      pages = {183-196},
+      venue_short = {ISCA '19},
+      year = {2019},
+      abstract = {Modern GPUs suffer from cache contention due to the  limited cache size that is shared across tens of  concurrently running warps. To increase the per-warp cache  size prior techniques proposed warp throttling which limits  the number of active warps. Warp throttling leaves several  registers to be dynamically unused whenever a warp is  throttled. Given the stringent cache size limitation in  GPUs this work proposes a new cache management technique  named Linebacker (LB) that improves GPU performance by  utilizing idle register file space as victim cache space.  Whenever a CTA becomes inactive, linebacker backs up the  registers of the throttled CTA to the off-chip memory.  Then, linebacker utilizes the corresponding register file  space as victim cache space. If any load instruction finds  data in the victim cache line, the data is directly copied  to the destination register through a simple  register-register move operation. To further improve the  efficiency of victim cache linebacker allocates victim  cache space only to a select few load instructions that  exhibit high data locality. Through a careful design of  victim cache indexing and management scheme linebacker  provides 29.0% of speedup compared to the previously  proposed warp throttling techniques.},
+      url = {http://infoscience.epfl.ch/record/276919},
+      doi = {10.1145/3307650.3322222},
+}
+
+
+
+@article{Shamis:273429,
+      title = {Fast General Distributed Transactions with Opacity},
+      author = {Shamis, Alex and Renzelmann, Matthew and Novakovic, Stanko  and Chatzopoulos, Georgios and Dragojevic, Aleksandar and  Narayanan, Dushyanth and Castro, Miguel},
+      publisher = {ASSOC COMPUTING MACHINERY},
+      journal = {Proceedings Of The 2019 International  Conference On Management Of Data (SIGMOD'19)},
+      address = {New York},
+      series = {International Conference on Management of Data},
+      pages = {433-448},
+      venue_short = {SIGMOD '19},
+      year = {2019},
+      abstract = {Transactions can simplify distributed applications by  hiding data distribution, concurrency, and failures from  the application developer. Ideally the developer would see  the abstraction of a single large machine that runs  transactions sequentially and never fails. This requires  the transactional subsystem to provide opacity (strict  serializability for both committed and aborted  transactions), as well as transparent fault tolerance with  high availability. As even the best abstractions are  unlikely to be used if they perform poorly, the system must  also provide high performance. Existing distributed  transactional designs either weaken this abstraction or are  not designed for the best performance within a data center.  This paper extends the design of FaRM - which provides  strict serializability only for committed transactions - to  provide opacity while maintaining FaRM's high throughput,  low latency, and high availability within a modern data  center. It uses timestamp ordering based on real time with  clocks synchronized to within tens of microseconds across a  cluster, and a failover protocol to ensure correctness  across clock master failures. FaRM with opacity can commit  5.4 million neworder transactions per second when running  the TPC-C transaction mix on 90 machines with 3-way  replication.},
+      url = {http://infoscience.epfl.ch/record/273429},
+      doi = {10.1145/3299869.3300069},
+}
+
+

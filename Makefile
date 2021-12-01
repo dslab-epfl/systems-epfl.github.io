@@ -10,6 +10,7 @@ _includes/pubs.html: bib/pubs.bib bib/publications.tmpl
 	$(BIBBLE) $+ > $@
 
 build: _includes/pubs.html
+	./dblpbibcloud.py
 	jekyll build
 
 # you can configure these at the shell, e.g.:
