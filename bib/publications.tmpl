@@ -3,13 +3,11 @@
 	{%- set prev_year = 1900 %}
 	{%- for entry in entries %}
 	<tr>
-		<td>
-			<span class="date">
-				{% if entry.fields['year'] != prev_year %}
-				<big><strong>{{ entry.fields['venue_short'] }}</strong></big><br />
-				{% endif %}
-				{%- set prev_year = entry.fields['year'] %}
-			</span>
+		<td class="date">
+			{% if entry.fields['year'] != prev_year %}
+			<big><strong>{{ entry.fields['venue_short'] }}</strong></big><br />
+			{% endif %}
+			{%- set prev_year = entry.fields['year'] %}
 		</td>
 		<td class="publication">
 			<span class="pubtitle">

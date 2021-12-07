@@ -155,3 +155,11 @@ svg {
     // make the alignment just like img from bootstrap's reboot.scss
     vertical-align: middle;
 }
+
+// force the table to have the same width with summaries open or closed
+td.date {
+  width: 20%;
+}
+td.publication {
+  width: 80%;
+}
