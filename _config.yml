@@ -6,8 +6,8 @@ exclude: [bibble, README.md, Makefile, screenshot.png]
 # colorize code snippets with the pygments module
 highlighter: pygments
 
-# The path structure for blog posts.
-permalink: /blog/:year/:month/:day/:title.html
+# The path structure for news posts.
+permalink: /news/:year/:month/:day/:title.html
 
 # Sections on the "people" page.
 roles:
