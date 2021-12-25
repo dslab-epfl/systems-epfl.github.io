@@ -19,12 +19,13 @@
                         flex-column
                         flex-md-row justify-content-md-between">
                 <div>
-                <a href="{{ site.base }}/">
-                    <span>Systems @</span>
-                    <img src="{{ site.base }}/img/epfl-logo.svg"
-                         alt="Systems@EPFL" id="logo" style="width: auto;">
-                </a>
-            </div>
+                    <a href="{{ site.base }}/">
+                        <span>Systems @
+                        <img src="{{ site.base }}/img/epfl-logo.svg"
+                            alt="Systems@EPFL" id="logo" style="width: auto;">
+                        </span>
+                    </a>
+                </div>
                 <ul class="nav nav-pills justify-content-center">
 
                     {% assign shorturl = page.url | replace:'.html','' | replace:'index','' %}
