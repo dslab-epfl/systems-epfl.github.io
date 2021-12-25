@@ -78,6 +78,11 @@ martin-odersky:
         role: aff-faculty
         webpage: "http://lampwww.epfl.ch/~odersky/"
         image: /img/people/odersky.jpeg
+clement-pit-claudel:
+        display_name: "Clément Pit-Claudel"
+        role: aff-faculty
+        webpage: "http://pit-claudel.fr/clement/"
+        image: /img/people/claudel.jpg
 endri-bezati:
         display_name: "Endri Bezati"
         role: scientist
