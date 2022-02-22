@@ -1,4 +1,57 @@
+@article{Iyer:000000,
+      title = {Performace Interfaces for Network Functions},
+      author = {Iyer, Rishabh and Argyraki, Katerina and Candea, George},
+      year = {2022},
+      abstract = {Modern programmers routinely use third-party code, and infrastructure operators deploy software they did not write. This would not be possible without semantic interfaces---documentation, header files, specifications---that succinctly describe what that third-party code does. We propose performance interfaces as a way to describe a system's performance, akin to how a semantic interface describes its functionality. We concretize this idea in the domain of network functions~(NFs) and present a tool that automatically extracts performance interfaces from NF implementations. We evaluate our tool on 11 NFs, including several used in production. The resulting performance interfaces are accurate yet orders of magnitude simpler than the code itself and take minutes to extract. We show how developers and operators can use performance interfaces to identify performance regressions, diagnose and fix performance bugs and identify the latency impact of NIC offloads.},
+      venue_short = {NSDI '22},
+}
 
+
+@article{Pirelli:000000,
+      title = {Automated Verification of Network Function Binaries},
+      author = {Pirelli, Solal and Valentukonytė, Akvilė and Argyraki, Katerina and Candea, George},
+      year = {2022},
+      abstract = {Formally verifying the correctness of software network functions (NFs) is necessary for network reliability, yet existing techniques require full source code and mandate the use of specific data structures. We describe an automated technique to verify NF binaries, making verification usable by network operators even on proprietary code. To solve the key challenge of bridging the abstraction levels of NF implementations and specifications without special-casing a set of data structures, we observe that data structures used by NFs can be modeled as maps, and introduce a universal type to specify both NFs and their data structures, the "ghost map". In addition, we observe that the interactions between an NF and its environment are sufficient to infer control flow and types, removing the requirement for source code. We implement our technique in Klint, a tool with which we verify, in minutes, that 7 NF binaries satisfy their specifications, without limiting developers' choices of data structures. The specifications are written in Python and use maps to model state. Klint can also verify an entire NF binary stack, all the way down to the NIC driver, using a minimal operating system. Operators can thus verify NF binaries, without source code or debug symbols, without requiring developers to use specific programming languages or data structures, and without trusting any software except Klint.},
+      venue_short = {NSDI '22},
+}
+
+@inproceedings{10.1145/3477132.3483589,
+      author = {Kim, Wook-Hee and Krishnan, R. Madhava and Fu, Xinwei and Kashyap, Sanidhya and Min, Changwoo},
+      title = {PACTree: A High Performance Persistent Range Index Using PAC Guidelines},
+      year = {2021},
+      isbn = {9781450387095},
+      publisher = {Association for Computing Machinery},
+      address = {New York, NY, USA},
+      url = {https://doi.org/10.1145/3477132.3483589},
+      doi = {10.1145/3477132.3483589},
+      abstract = {Non-Volatile Memory (NVM), which provides relatively fast and byte-addressable persistence, is now commercially available. However, we cannot equate a real NVM with a slow DRAM, as it is much more complicated than we expect. In this work, we revisit and analyze both NVM and NVM-specific persistent memory indexes. We find that there is still a lot of room for improvement if we consider NVM hardware, its software stack, persistent index design, and concurrency control. Based on our analysis, we propose Packed Asynchronous Concurrency (PAC) guidelines for designing high-performance persistent index structures. The key idea behind the guidelines is to 1) access NVM hardware in a packed manner to minimize its bandwidth utilization and 2) exploit asynchronous concurrency control to decouple the long NVM latency from the critical path of the index.We develop PACTree, a high-performance persistent range index following the PAC guidelines. PACTree is a hybrid index that employs a trie index for its internal nodes and B+-tree-like leaf nodes. The trie index structure packs partial keys in internal nodes. Moreover, we decouple the trie index and B+-tree-like leaf nodes. The decoupling allows us to prevent blocking concurrent accesses by updating internal nodes asynchronously. Our evaluation shows that PACTree outperforms state-of-the-art persistent range indexes by 7x in performance and 20x in 99.99 percentile tail latency.},
+      booktitle = {Proceedings of the ACM SIGOPS 28th Symposium on Operating Systems Principles},
+      pages = {424–439},
+      numpages = {16},
+      keywords = {Index structures, Non-volatile Memory},
+      location = {Virtual Event, Germany},
+      series = {SOSP '21},
+      venue_short = {SOSP '21}
+}
+
+@inproceedings{10.1145/3477132.3483576,
+      author = {Monga, Sumit Kumar and Kashyap, Sanidhya and Min, Changwoo},
+      title = {Birds of a Feather Flock Together: Scaling RDMA RPCs with Flock},
+      year = {2021},
+      isbn = {9781450387095},
+      publisher = {Association for Computing Machinery},
+      address = {New York, NY, USA},
+      url = {https://doi.org/10.1145/3477132.3483576},
+      doi = {10.1145/3477132.3483576},
+      abstract = {RDMA-capable networks are gaining traction with datacenter deployments due to their high throughput, low latency, CPU efficiency, and advanced features, such as remote memory operations. However, efficiently utilizing RDMA capability in a common setting of high fan-in, fan-out asymmetric network topology is challenging. For instance, using RDMA programming features comes at the cost of connection scalability, which does not scale with increasing cluster size. To address that, several works forgo some RDMA features by only focusing on conventional RPC APIs.In this work, we strive to exploit the full capability of RDMA, while scaling the number of connections regardless of the cluster size. We present Flock, a communication framework for RDMA networks that uses hardware provided reliable connection. Using a partially shared model, Flock departs from the conventional RDMA design by enabling connection sharing among threads, which provides significant performance improvements contrary to the widely held belief that connection sharing deteriorates performance. At its core, Flock uses a connection handle abstraction for connection multiplexing; a new coalescing-based synchronization approach for efficient network utilization; and a load-control mechanism for connections with symbiotic send-recv scheduling, which reduces the synchronization overheads associated with connection sharing along with ensuring fair utilization of network connections. We demonstrate the benefits for a distributed transaction processing system and an in-memory index, where it outperforms other RPC systems by up to 88% and 50%, respectively, with significant reductions in median and tail latency.},
+      booktitle = {Proceedings of the ACM SIGOPS 28th Symposium on Operating Systems Principles},
+      pages = {212–227},
+      numpages = {16},
+      keywords = {Remote Memory Access, Network hardware},
+      location = {Virtual Event, Germany},
+      series = {SOSP '21},
+      venue_short = {SOSP '21}
+}
 
 @article{Ghosn:283299,
       title = {Enclosure: Language-Based Restriction of Untrusted  Libraries},
