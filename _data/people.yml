@@ -33,6 +33,11 @@ rachid-guerraoui:
         role: faculty2
         webpage: "http://lpdwww.epfl.ch/rachid/index.html"
         image: /img/people/guerraoui.jpg
+haitham-hassanieh:
+        display_name: "Haitham Hassanieh"
+        role: faculty2
+        webpage: "http://haitham.ece.illinois.edu/"
+        image: /img/people/hassanieh.png
 sanidhya-kashyap:
         display_name: "Sanidhya Kashyap"
         role: faculty2
