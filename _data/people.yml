@@ -200,6 +200,10 @@ atri-bhattacharyya:
         display_name: "Atri Bhattacharyya"
         role: student
         webpage: "http://atrib.bitbucket.io"
+can-cebeci:
+        display_name: "Can Cebeci"
+        role: student
+        webpage: "https://dslab.epfl.ch/people/cebeci/"
 periklis-chrysogelos:
         display_name: "Periklis Chrysogelos"
         role: student
@@ -284,6 +288,10 @@ jovan-komatovic:
         display_name: "Jovan Komatovic"
         role: student
         webpage: "https://people.epfl.ch/jovan.komatovic"
+yugesh-kothari:
+        display_name: "Yugesh Kothari"
+        role: student
+        webpage: "https://yugeshk.github.io"
 anastasiia-kucherenko:
         display_name: "Anastasiia Kucherenko"
         role: student
