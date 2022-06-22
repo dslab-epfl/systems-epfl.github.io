@@ -3,6 +3,45 @@
 	<tr>
 		<td class="date">
 			
+			<big><strong>OSDI '22</strong></big><br />
+			
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				<a href="https://multics69.github.io/pages/pubs/odinfs-zhou-osdi20.pdf">Odinfs: Scaling PM Performance with Opportunistic Delegation</a>.
+			</span><br />
+			<span class="authors">
+				Diyu Zhou, Yuchen Qian, Vishal Gupta, Zhifei Yang, Changwoo Min, and Sanidhya Kashyap.
+			</span><br />
+			<span class="links">
+				<details><summary>Abstract</summary>
+			</span>
+			<div id="abstract_Zhou:000000" class="abstract">
+			Existing file systems for persistent memory (PM) exploit its byte-addressable non-volatile access with low latency and high bandwidth. However, they do not utilize two unique PM properties effectively. The first one is contention awareness, i.e., a small number of threads cannot thoroughly saturate the PM bandwidth, while many concurrent accesses lead to significant PM performance degradation. The second one is NUMA awareness, i.e., exploiting the remote PM efficiently, as accessing remote PM naively leads to significant performance degradation. We present Odinfs, a NUMA-aware scalable datapath PM file system that addresses these two challenges using a novel opportunistic delegation scheme. Under this scheme, Odinfs decouples the PM accesses from application threads with the help of background threads that access PM on behalf of the application. Because of PM access decoupling, Odinfs automatically parallelizes the access to PM across NUMA nodes in a controlled and localized manner. Our evaluation shows that Odinfs outperforms existing PM file systems up to 32.7× on real-world workloads.
+			</div>
+			</details>
+		</td>
+	</tr>
+	<tr>
+		<td class="date">
+			
+			<big><strong>OSDI '22</strong></big><br />
+			
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				Application-Informed Kernel Synchronization Primitives.
+			</span><br />
+			<span class="authors">
+				Sujin Park, Diyu Zhou, Yuchen Qian, Irina Calciu, Taesoo Kim, and Sanidhya Kashyap.
+			</span><br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td class="date">
+			
 			<big><strong>NSDI '22</strong></big><br />
 			
 		</td>

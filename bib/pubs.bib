@@ -1,3 +1,19 @@
+@article{Zhou:000000,
+      title = {Odinfs: Scaling PM Performance with Opportunistic Delegation},
+      author = {Zhou, Diyu and Qian, Yuchen and Gupta, Vishal and Yang, Zhifei and Min, Changwoo and Kashyap, Sanidhya},
+      year = {2022},
+      url = {https://multics69.github.io/pages/pubs/odinfs-zhou-osdi20.pdf},
+      abstract = {Existing file systems for persistent memory (PM) exploit its byte-addressable non-volatile access with low latency and high bandwidth. However, they do not utilize two unique PM properties effectively. The first one is contention awareness, i.e., a small number of threads cannot thoroughly saturate the PM bandwidth, while many concurrent accesses lead to significant PM performance degradation. The second one is NUMA awareness, i.e., exploiting the remote PM efficiently, as accessing remote PM naively leads to significant performance degradation. We present Odinfs, a NUMA-aware scalable datapath PM file system that addresses these two challenges using a novel opportunistic delegation scheme. Under this scheme, Odinfs decouples the PM accesses from application threads with the help of background threads that access PM on behalf of the application. Because of PM access decoupling, Odinfs automatically parallelizes the access to PM across NUMA nodes in a controlled and localized manner. Our evaluation shows that Odinfs outperforms existing PM file systems up to 32.7× on real-world workloads.},
+      venue_short = {OSDI '22},
+}
+
+@article{Park:000000,
+      title = {Application-Informed Kernel Synchronization Primitives},
+      author = {Park, Sujin and Zhou, Diyu and Qian, Yuchen and Calciu, Irina and Kim, Taesoo and Kashyap, Sanidhya},
+      year = {2022},
+      venue_short = {OSDI '22},
+}
+
 @article{Iyer:000000,
       title = {Performance Interfaces for Network Functions},
       author = {Iyer, Rishabh and Argyraki, Katerina and Candea, George},
