@@ -316,6 +316,10 @@ matteo-monti:
         display_name: "Matteo Monti"
         role: student
         webpage: "https://people.epfl.ch/matteo.monti"
+hamish-nicholson:
+        display_name: "Hamish Nicholson"
+        role: student
+        webpage: "https://www.nicholson.ai/"
 antoine-murat:
         display_name: "Antoine Murat"
         role: student
