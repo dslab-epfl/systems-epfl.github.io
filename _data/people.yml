@@ -204,10 +204,6 @@ can-cebeci:
         display_name: "Can Cebeci"
         role: student
         webpage: "https://dslab.epfl.ch/people/cebeci/"
-periklis-chrysogelos:
-        display_name: "Periklis Chrysogelos"
-        role: student
-        webpage: "https://people.epfl.ch/periklis.chrysogelos"
 simone-colombo:
         display_name: "Simone Colombo"
         role: student
@@ -404,6 +400,11 @@ haoqian-zhang:
         display_name: "Haoqian Zhang"
         role: student
         webpage: "https://haoqian.info"
+periklis-chrysogelos:
+        display_name: "Periklis Chrysogelos"
+        role: alum
+        webpage: "https://people.epfl.ch/periklis.chrysogelos"
+        bio: "(2022)"
 arash-pourhabibi:
         display_name: "Arash Pourhabibi"
         role: alum
