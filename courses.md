@@ -47,8 +47,7 @@ title: Systems Courses
     <summary> CS 522: Principles of Computer Systems</summary>
                 <ul class="offerings-list hide">
                   <li>
-                    in <a href="https://edu.epfl.ch/coursebook/en/principles-of-computer-systems-CS-522">Fall of
-                      2021</a>
+                    in <a href="https://dslab.epfl.ch/teaching/pocs/">Fall of 2022</a>
                     (Katerina Argyraki, George Candea)
                   </li>
                 </ul>
@@ -305,7 +304,7 @@ title: Systems Courses
     <summary> CS 305: Software Engineering</summary>
     <ul >
         <li>
-        in <a href="https://edu.epfl.ch/coursebook/en/software-engineering-CS-305">Fall of 2021</a>
+        in <a href="https://dslab.epfl.ch/teaching/sweng/">Fall of 2022</a>
         (George Candea)
         </li>
     </ul>   
