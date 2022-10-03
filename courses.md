@@ -198,7 +198,7 @@ title: Systems Courses
 </details>
 
 <details>
-    <summary> EE 442: Wireless Receivers: Algorithms and Architectures]</summary>
+    <summary> EE 442: Wireless Receivers: Algorithms and Architectures</summary>
                 <ul class="offerings-list hide">
                   <li>
                     in <a
