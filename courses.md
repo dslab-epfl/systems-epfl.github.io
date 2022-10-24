@@ -24,7 +24,7 @@ title: Systems Courses
                   <li>
                     in <a
                       href="https://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2438219383&ww_x_anneeAcad=2301874322&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=en">Fall
-                      of 2021</a>
+                      of 2023</a>
                     (Mathias Payer)
                   </li>
                 </ul>
@@ -34,11 +34,11 @@ title: Systems Courses
     <summary> CS 723: Topics on ML Systems</summary>
                 <ul class="offerings-list hide">
                   <li>
-                    Next offering not confirmed at this time
+                    Will be offered in the Spring of 2023
+                    (Babak Falsafi, Anne-Marie Kermarrec, Martin Jaggi)
                   </li>
                   <li>
                     Last offered in <a href="https://parsa.epfl.ch/course-info/cs728/">Fall of 2020</a>
-                    (Babak Falsafi, Anne-Marie Kermarrec, Martin Jaggi)
                   </li>
                 </ul>
 
@@ -58,8 +58,18 @@ title: Systems Courses
                 <ul class="offerings-list hide">
                   <li>
                     in <a href="https://edu.epfl.ch/coursebook/en/advanced-multiprocessor-architecture-CS-471">Fall of
-                      2021</a>
+                      2023</a>
                     (Babak Falsafi)
+                  </li>
+                </ul>
+</details>
+<details>
+    <summary> CS 460: Systems for Data Management and Data Science</summary>
+                <ul class="offerings-list hide">
+                  <li>
+                    in <a href="https://edu.epfl.ch/coursebook/en/advanced-multiprocessor-architecture-CS-471">Spring of
+                      2023</a>
+                    (Anastasia Ailamaki & Anne-Marie Kermarrec)
                   </li>
                 </ul>
 </details>
@@ -67,7 +77,7 @@ title: Systems Courses
     <summary> CS 453: Concurrent Algorithms</summary>
                 <ul class="offerings-list hide">
                   <li>
-                    in <a href="https://edu.epfl.ch/coursebook/en/concurrent-algorithms-CS-453">Fall of 2021</a>
+                    in <a href="https://edu.epfl.ch/coursebook/en/concurrent-algorithms-CS-453">Fall of 2023</a>
                     (Rachid Guerraoui)
                   </li>
                 </ul>
@@ -76,7 +86,7 @@ title: Systems Courses
     <summary> CS 452: Foundations of Software</summary>
                 <ul class="offerings-list hide">
                   <li>
-                    in <a href="https://edu.epfl.ch/coursebook/en/foundations-of-software-CS-452">Fall of 2021</a>
+                    in <a href="https://edu.epfl.ch/coursebook/en/foundations-of-software-CS-452">Fall of 2022</a>
                     (Martin Odersky)
                   </li>
                 </ul>
@@ -85,20 +95,11 @@ title: Systems Courses
     <summary> CS 451: Distributed Algorithms</summary>
                 <ul class="offerings-list hide">
                   <li>
-                    in <a href="https://edu.epfl.ch/coursebook/en/distributed-algorithms-CS-451">Fall of 2021</a>
+                    in <a href="https://edu.epfl.ch/coursebook/en/distributed-algorithms-CS-451">Fall of 2023</a>
                     (Rachid Guerraoui)
                   </li>
                 </ul>
 
-</details>
-<details>
-    <summary> CS 449: Systems for Data Science</summary>
-                <ul class="offerings-list hide">
-                  <li>
-                    in <a href="https://edu.epfl.ch/coursebook/en/systems-for-data-science-CS-449">Spring of 2022</a>
-                    (Anne-Marie Kermarrec)
-                  </li>
-                </ul>
 </details>
 <details>
     <summary> CS 438: Decentralized Systems Engineering</summary>
@@ -106,7 +107,7 @@ title: Systems Courses
                   <li>
                     in <a
                       href="https://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2217640907&ww_x_anneeAcad=2301874322&ww_i_section=84482813&ww_i_niveau=2936286&ww_c_langue=en">
-                      Fall of 2021</a>
+                      Fall of 2023</a>
                     (Bryan Ford)
                   </li>
                 </ul>
@@ -126,7 +127,7 @@ title: Systems Courses
                   <li>
                     in <a
                       href="https://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2473820019&ww_x_anneeAcad=2301874322&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=en">Spring
-                      of 2022</a>
+                      of 2023</a>
                     (Mathias Payer)
                   </li>
                 </ul>
@@ -137,7 +138,7 @@ title: Systems Courses
                   <li>
                     in <a
                       href="https://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771764&ww_x_anneeAcad=2301874322&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en">Fall
-                      of 2021</a>
+                      of 2022</a>
                     (Jean-Yves Le Boudec)
                   </li>
                 </ul>
@@ -148,8 +149,8 @@ title: Systems Courses
                   <li>
                     in <a
                       href="https://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771338&ww_x_anneeAcad=2301874322&ww_i_section=84482813&ww_i_niveau=2936295&ww_c_langue=en">Spring
-                      of 2022</a>
-                    (Jean-Pierre Hubaux)
+                      of 2023</a>
+                    (Haitham Hassanieh)
                   </li>
                 </ul>
 </details>
@@ -159,7 +160,7 @@ title: Systems Courses
                   <li>
                     in <a
                       href="https://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2046274196&ww_x_anneeAcad=2301874322&ww_i_section=944590&ww_i_niveau=6683147&ww_c_langue=en">Fall
-                      of 2021</a>
+                      of 2022</a>
                     (Jean-Pierre Hubaux, Apostolos Pyrgelis)
                   </li>
                 </ul>
@@ -181,7 +182,7 @@ title: Systems Courses
                   <li>
                     in <a
                       href="https://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2218168600&ww_x_anneeAcad=2301874322&ww_i_section=84482813&ww_i_niveau=2936295&ww_c_langue=en">Spring
-                      of 2022</a>
+                      of 2023</a>
                     (Andreas Burg)
                   </li>
                 </ul>
@@ -191,7 +192,7 @@ title: Systems Courses
     <summary> EE 472: Smart Grids Technologies</summary>
     <ul>
         <li>
-            in <a href="https://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1669977111&ww_x_anneeAcad=2301874322&ww_i_section=84482813&ww_i_niveau=2936295&ww_c_langue=en"> Spring of 2022</a> 
+            in <a href="https://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1669977111&ww_x_anneeAcad=2301874322&ww_i_section=84482813&ww_i_niveau=2936295&ww_c_langue=en"> Spring of 2023</a> 
             (Jean-Yves Le Boudec, Mario Paolone)
         </li>
     </ul>
@@ -214,7 +215,7 @@ title: Systems Courses
                   <li>
                     in <a
                       href="https://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499348352&ww_x_anneeAcad=2301874322&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=en">
-                      Fall of 2021</a>
+                      Fall of 2022</a>
                     (Andreas Burg)
                   </li>
                 </ul>
@@ -225,7 +226,7 @@ title: Systems Courses
                   <li>
                     in <a
                       href="https://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1829078675&ww_x_anneeAcad=2301874322&ww_i_section=84482813&ww_i_niveau=2936295&ww_c_langue=en">
-                      Spring of 2022</a>
+                      Spring of 2023</a>
                     (Andreas Burg)
                   </li>
                 </ul>
@@ -237,7 +238,7 @@ title: Systems Courses
                   <li>
                     in <a
                       href="https://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1699512059&ww_x_anneeacad=2301874322&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=en">
-                      Spring of 2022</a>
+                      Spring of 2023</a>
                     (Andreas Burg, Catherine Dehollain, Franco Maloberti, Anja Skrivervik)
                   </li>
                 </ul>
@@ -250,7 +251,7 @@ title: Systems Courses
     <ul>
         <li>
             in <a href="https://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2910557299&ww_x_anneeAcad=2301874322&ww_i_section=946228&ww_i_niveau=6683117&ww_c_langue=en">
-                Spring of 2022</a> (Christoph Koch)
+                Spring of 2023</a> (Christoph Koch)
         </li>
     </ul>
 </details>
@@ -260,7 +261,7 @@ title: Systems Courses
     <ul>
         <li>
             in <a href="https://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2046271680&ww_x_anneeAcad=2301874322&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=en">
-                    Fall of 2021</a> (Sanidhya Kashyap, Mathias Payer)
+                    Fall of 2022</a> (Sanidhya Kashyap)
         </li>
     </ul>
 </details>
@@ -271,7 +272,7 @@ title: Systems Courses
     <ul >
         <li>
             in <a href="https://edu.epfl.ch/coursebook/en/introduction-to-database-systems-CS-322">
-            Spring of 2022</a>
+            Spring of 2023</a>
             (Anastasia Ailamaki, Christoph Koch)
         </li>
     </ul>
@@ -283,7 +284,7 @@ title: Systems Courses
     <ul >
         <li>
             in <a href="https://edu.epfl.ch/coursebook/en/introduction-to-multiprocessor-architecture-CS-307">
-                Fall of 2021</a>
+                Fall of 2022</a>
             (Babak Falsafi)
         </li>
     </ul>
@@ -294,7 +295,7 @@ title: Systems Courses
     <ul >
         <li>
         in <a href="https://edu.epfl.ch/coursebook/en/software-development-project-CS-306">Spring of
-            2022</a>
+            2023</a>
         (George Candea)
         </li>
     </ul>
@@ -316,7 +317,7 @@ title: Systems Courses
         <li>
             in <a
             href="https://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2923479747&ww_x_anneeAcad=2301874322&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=en">
-            Fall of 2021</a>
+            Fall of 2022</a>
             (Bryan Ford)
         </li>
     </ul>
@@ -326,7 +327,7 @@ title: Systems Courses
     <summary> CS 212: System Programming Project</summary>
     <ul >
         <li>
-        in <a href="https://edu.epfl.ch/coursebook/en/system-programming-project-CS-212">Spring of 2022</a>
+        in <a href="https://edu.epfl.ch/coursebook/en/system-programming-project-CS-212">Spring of 2023</a>
         (Edouard Bugnion, Jean-Cédric Chappelier)
         </li>
     </ul>
@@ -337,7 +338,7 @@ title: Systems Courses
     <summary> CS 209: Computer Architecture II</summary>
     <ul >
         <li>
-        in <a href="https://edu.epfl.ch/coursebook/en/computer-architecture-ii-CS-209">Spring of 2022</a>
+        in <a href="https://edu.epfl.ch/coursebook/en/computer-architecture-ii-CS-209">Spring of 2023</a>
         (Paolo Ienne)
         </li>
     </ul>
@@ -347,7 +348,7 @@ title: Systems Courses
     <summary> CS 208: Computer Architecture I</summary>
     <ul >
         <li>
-        in <a href="https://edu.epfl.ch/coursebook/en/computer-architecture-i-CS-208">Fall of 2021</a>
+        in <a href="https://edu.epfl.ch/coursebook/en/computer-architecture-i-CS-208">Fall of 2022</a>
         (Mirjana Stojilović)
         </li>
     </ul>
@@ -359,8 +360,8 @@ title: Systems Courses
         <li>
             in <a
             href="https://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1887880865&ww_x_anneeAcad=2301874322&ww_i_section=946228&ww_i_niveau=6683117&ww_c_langue=en">
-            Spring of 2022</a>
-            (Sanidhya Kashyap, Martin Odersky)
+            Spring of 2023</a>
+            (Sanidhya Kashyap, Viktor Kunčak)
         </li>
     </ul>
 </details>
@@ -371,7 +372,7 @@ title: Systems Courses
         <li>
             in <a
             href="https://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776067&ww_x_anneeAcad=2301874322&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=en">
-            Fall of 2021</a>
+            Fall of 2022</a>
             (Katerina Argyraki)
         </li>
     </ul>
@@ -383,7 +384,7 @@ title: Systems Courses
         <li>
         in <a
         href="https://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2720138657&ww_x_anneeAcad=2301874322&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en">
-        Fall of 2021</a>
+        Fall of 2022</a>
         (Andreas Burg)
         </li>
     </ul>
