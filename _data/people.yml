@@ -400,6 +400,10 @@ haoqian-zhang:
         display_name: "Haoqian Zhang"
         role: student
         webpage: "https://haoqian.info"
+vishal-gupta:
+        display_name: "Vishal Gupta"
+        role: student
+        webpage: "https://people.epfl.ch/vishal.gupta"
 periklis-chrysogelos:
         display_name: "Periklis Chrysogelos"
         role: alum
