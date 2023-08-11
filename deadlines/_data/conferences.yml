@@ -1,0 +1,50 @@
+---
+
+- title: OSDI
+  year: 2024
+  id: osdi24
+  link: https://www.usenix.org/conference/osdi24/call-for-papers
+  deadline: '2023-12-07 22:59:59'
+  abstract_deadline: '2023-11-20 22:59:59'
+  timezone: UTC
+  date: Wed 10 - Fri 12 July 2024
+  place: Santa Clara, CA, USA
+  note: Abstract Deadline is 30 Nov 2023
+- title: ASPLOS
+  year: 2024
+  id: asplos24-fall
+  link: https://www.asplos-conference.org/asplos2024/cfp/
+  deadline: '2023-11-30 14:59:59'
+  timezone: EST
+  date: Sat 27 - Wed 1 May 2024
+  place: Hilton La Jolla Torrey Pines, San Diego 
+  note: Paper Registration Deadline is 23 Nov 2023
+- title: ICSA
+  year: 2024
+  id: isca24
+  link: https://iscaconf.org/isca2024/
+  deadline: '2023-11-22 13:59:59'
+  date: Sat 27 - Wed 1 May 2024
+  place: Buenos Aires, Argentina
+  note: Abstract Deadline is 14 Nov 2023 AoE
+- title: EuroSys
+  year: 2024
+  id: eurosys24-fall
+  link: https://2024.eurosys.org/cfp.html#pagetop
+  deadline: '2023-10-19 23:59:59'
+  date: Mon 22 - Thu 25 April 2024
+  place: Athens, Greece
+- title: NSDI 
+  id: nsdi24-fall
+  link: https://www.usenix.org/conference/nsdi24/call-for-papers
+  deadline: '2023-09-22 05:59:59'
+  date: Tue 16 - Thu 18 April 2024
+  place: Santa Clara, CA, USA
+  note: Abstract Deadline is 15 Sep 2024 6am
+- title: SOSP
+  id: sosp23
+  link: https://sosp2023.mpi-sws.org/
+  deadline: '2023-04-17 05:59:59'
+  date: Mon 23 - Thu 26 October 2023
+  place: Koblenz, Germany
+

@@ -1,0 +1,13 @@
+title: Systems Conference Deadlines
+description: Countdowns to top Systems conference deadlines
+author: yugeshk
+
+domain: "systems-epfl.github.io"
+baseurl: ""
+
+github_username: dslab-epfl
+github_repo: systems-epfl.github.io
+
+markdown: kramdown
+
+include: ['_pages']
